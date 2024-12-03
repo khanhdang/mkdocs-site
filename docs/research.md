@@ -31,7 +31,7 @@ Inspired by the human brain, we design neuromorphic chips featuring physical art
 We tackle complex Computer-Aided Design (CAD) challenges using machine learning and optimization techniques. Our goal is to create platforms capable of generating optimized designs, focusing on thermal awareness and reliability using Genetic Algorithms and Reinforcement Learning.
 
 ## Current and Previous Projects
-Details of our ongoing and completed projects can be found [here](project.html).
+Details of our ongoing and completed projects can be found [here](project.md).
 
 ## Grants
 
