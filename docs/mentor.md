@@ -3,10 +3,11 @@ hide:
 - navigation
 ---
 
-# Student Projects
+# Mentoring
 
 !!! note 
         I am pleased to have had the opportunity to work with several talented students. The projects listed below were created by these students, with my role being that of a guide.
+
 
 ## Class Project
 

@@ -1,0 +1,81 @@
+/* My avatar */
+.avatar {
+    display: block;
+    border-radius: 50%;
+    box-sizing: border-box;
+    background-color: #DDD;
+    float: right;
+    width: 240px;
+    top: 0rem;
+    margin-left: 20px;
+    /* margin-right: 20px; */
+    align: right;   
+    transition: 0.75s all ease-in-out;
+}
+
+.avatar:hover {
+    border-radius: 5px;
+}
+
+@media (max-width: 699px) {
+    .avatar {
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+        align: none;
+        margin-bottom: 10px;
+    }
+}
+
+
+
+
+
+/* remove top bar shadow */
+
+.md-header{
+    box-shadow: none;
+    border-bottom: 0.05rem solid rgba(0,0,0,.07);
+
+}
+[data-md-color-primary=white] .md-tabs {
+    border-bottom: none;
+}
+
+/* for footer */
+
+[data-md-color-primary=white]  .md-footer{
+    border-top: 0.05rem solid rgba(0,0,0,.07);
+    color : #555555;
+    background: #ffffff;
+}
+
+
+/* for copyright box*/
+[data-md-color-primary=white]  .md-footer-meta {
+
+    color : #999999;
+    background: #fcfcfc;
+}
+
+/* for copyright  text */
+[data-md-color-primary=white]  .md-copyright__highlight {
+    color : #999999;
+}
+
+
+
+
+
+[dir=ltr] .md-header__title {
+    margin-left: 0.6rem;
+}
+
+
+
+[data-md-color-primary=white] {
+    --md-typeset-a-color: #b55639;
+
+}
+
+

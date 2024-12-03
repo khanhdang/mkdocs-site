@@ -5,8 +5,8 @@ hide:
 
 # Random 
 
-Just some random things about me. Not related to work :).
-{: .announce}
+!!! info 
+        Just some random things about me. Not related to work :).
 
 ## Chess
 

@@ -38,7 +38,8 @@ markdown_extensions:
       alternate_style: true 
 theme: 
   name: material
-  logo: assets/favicon.png
+  logo: assets/logo.svg
+  favicon: assets/favicon.png
   font: false
   features:
     - navigation.tracking
@@ -56,7 +57,7 @@ theme:
 
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
-      primary: black
+      primary: white
       accent: orange
       toggle:
         icon: material/brightness-auto
@@ -64,7 +65,7 @@ theme:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      primary: black
+      primary: white
       accent: orange
       scheme: default 
       toggle:
@@ -84,11 +85,12 @@ nav:
   - 'Research': research.md
   - 'Patent': patent.md
   - 'Publication': pub.md
-  - 'Teaching': education.md
-  - 'Group': grp_mem.md
+  - 'Teaching': teaching.md
+  - 'Group member': grp_mem.md
   - 'Mentoring': mentor.md
   - 'Service': service.md
   - 'Open-source': open.md
+  - 'Lab Website': https://web-ext.u-aizu.ac.jp/misc/neuro-eng/
   - 'Contact': contact.md
 
 plugins:

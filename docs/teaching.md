@@ -3,7 +3,7 @@ hide:
 - navigation
 ---
 
-# Education
+# Teaching
 
 ## Current Courses
 

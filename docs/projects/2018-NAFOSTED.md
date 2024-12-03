@@ -1,3 +1,8 @@
+---
+hide:
+- navigation
+---
+
 # NAFOSTED (Ref. No. 102.01-2018.312): Hotspot aware Fault-Tolerant Architectures and Algorithms for TSV-based 3D Network-on-Chips  (2019-2021)
 
 ## Project Summary
@@ -5,22 +10,18 @@
 In this project, we solve the reliabilty challenges of Through-Silicon-Via based 3D Integrated Circuits with hotspot awareness. When hotspots occur, they accelerate the fault rates of their regions which lead to the need of both temporal and spatial system adaptations. Also, hotspots could be the consequences of using fault-tolerance. Therefore, we target to make the 3D-ICs not only support fault tolerance with variable fault-rates and fault distribution but also be adaptable to the occurrences of thermal hotspots.
 
 
-{::nomarkdown}
-<img src="../assets/projects/NAFOSTED-2018_1.PNG" class="icenter" width=40%>
-{:/}
-*Caption: Thermal Impact on Reliability using Black's Model: Copper (TSV's material) and CMOS (see: [https://arxiv.org/abs/2003.08648](https://arxiv.org/abs/2003.08648))*
-
-{::nomarkdown}
-<img src="../assets/projects/NAFOSTED-2018_2.PNG" class="icenter" width=79%>
-{:/}
-*Caption: Final Framework of TSV Placement (see: \[[DOI: 10.1109/TCAD.2021.3069370](https://doi.org/10.1109/TCAD.2021.3069370)\])*
-
 This projected is funded by NAFOSTED - National Foundation for Science and Technology Development ([https://nafosted.gov.vn/en/](https://nafosted.gov.vn/en/)) from 2019 to 2021.
+
+
+![Image title](../../assets/projects/NAFOSTED-2018_2.PNG){align=  width="100%"}
+*Caption: Final Framework of TSV Placement (see: \[[DOI: 10.1109/TCAD.2021.3069370](https://doi.org/10.1109/TCAD.2021.3069370)\])*
 
 
 ## Project's Output
 
 ### Journal 
+
+
 
 8. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *''HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems''*, **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, IEEE, Volume 41, No. 4,  pp. 799-812, April 2022. \[[DOI: 10.1109/TCAD.2021.3069370](https://doi.org/10.1109/TCAD.2021.3069370)\]/\[[PDF](../share/pubs/TCAD-2021.pdf)\].
 12. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *''A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems''*, **IEEE Access**, IEEE, Volume 8, pp. 166642-166657, 2020. \[[DOI: 10.1109/ACCESS.2020.3022904](https://doi.org/10.1109/ACCESS.2020.3022904 )\]/\[[PDF](../share/pubs/ACCESS-2022-2.pdf)\].

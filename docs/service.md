@@ -34,7 +34,8 @@ hide:
 
 ## Peer Review Activities
 
-*Note: not exhaustive or up-to-date*
+!!! note "Note"
+    The list is not exhaustive or up-to-date.
 
 ### Journals
 
@@ -57,15 +58,16 @@ hide:
 - IEEE Transactions on Very Large Scale Integration Systems
 - IEEE Transactions on Signal and Power Integrity
 - IEEE Transactions on Neural Systems & Rehabilitation Engineering
+- IET Electronics Letters
 
 ### Conferences
 
-- IEEE MCSoC 2017, 2018, 2019
-- IEEE ATC 2020
-- IEEE APCCAS 2020
-- IEEE ICCE 2020
-- IEEE ISCAS 2021
-- IEEE APCCAS 2021
+- IEEE MCSoC 
+- IEEE ATC 
+- IEEE APCCAS 
+- IEEE ICCE 
+- IEEE ISCAS 
+- IEEE APCCAS 
 - ICCE 2022
 - MCSoC 2022
 - ATC 2022
