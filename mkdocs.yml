@@ -47,7 +47,7 @@ theme:
     - navigation.instant
     - navigation.sections
     - toc.follow
-    - navigation.top
+    # - navigation.top
     - navigation.indexes
     - navigation.path
 
