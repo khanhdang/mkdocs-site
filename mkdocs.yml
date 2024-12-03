@@ -83,6 +83,8 @@ nav:
   - 'Research': research.md
   - 'Publication': pub.md
   - 'Teaching': education.md
+  - 'Group': grp_mem.md
+  - 'Mentoring': mentor.md
   - 'Contact': contact.md
 
 plugins:
