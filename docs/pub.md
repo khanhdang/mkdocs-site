@@ -1,7 +1,8 @@
 ---
-layout: default
-title: Publication
+hide:
+- navigation
 ---
+
 # Publication
 
 !!! note "Disclaimer"
