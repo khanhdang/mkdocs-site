@@ -42,6 +42,7 @@ theme:
   favicon: assets/favicon.png
   font: false
   features:
+    - navigation.footer
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
@@ -101,6 +102,12 @@ plugins:
         
 extra:
   generator: false
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/klab-aizu
+    - icon: fontawesome/brands/slack
+      link: https://klab-aizu.slack.com/
+
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
