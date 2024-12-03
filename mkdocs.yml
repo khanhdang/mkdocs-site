@@ -80,7 +80,9 @@ theme:
         name: Switch to system preference
 nav: 
   - 'Home': index.md
+  - 'Research': research.md
   - 'Publication': pub.md
+  - 'Teaching': education.md
   - 'Contact': contact.md
 
 plugins:
