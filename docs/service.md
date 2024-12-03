@@ -34,7 +34,7 @@ hide:
 
 ## Peer Review Activities
 
-!!! note "Note"
+!!! info "Note"
     The list is not exhaustive or up-to-date.
 
 ### Journals
