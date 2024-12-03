@@ -6,8 +6,8 @@ hide:
 # Publication
 
 !!! note "Disclaimer"
-  - This page contains PDF files of articles that might be covered by copyright. Please do not retrieve, copy, or distribute these files as it may violate copyright protection laws.
-  - <u>Underlined authors</u> are students under my direct supervision.
+    - This page contains PDF files of articles that might be covered by copyright. Please do not retrieve, copy, or distribute these files as it may violate copyright protection laws.
+    - <u>Underlined authors</u> are students under my direct supervision.
 
 
 
