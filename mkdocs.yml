@@ -42,10 +42,10 @@ theme:
   font: false
   features:
     - navigation.tracking
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.tabs.sticky
     - navigation.instant
-    - navigation.sections
+    # - navigation.sections
     - toc.follow
     # - navigation.top
     - navigation.indexes
