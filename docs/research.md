@@ -1,3 +1,7 @@
+---
+hide:
+- navigation
+---
 
 # Research
 
@@ -31,7 +35,19 @@ Inspired by the human brain, we design neuromorphic chips featuring physical art
 We tackle complex Computer-Aided Design (CAD) challenges using machine learning and optimization techniques. Our goal is to create platforms capable of generating optimized designs, focusing on thermal awareness and reliability using Genetic Algorithms and Reinforcement Learning.
 
 ## Current and Previous Projects
-Details of our ongoing and completed projects can be found [here](project.md).
+
+### On-going projects
+- UoA Competitive Research Funding (Ref. 2024-24):  Combination of Approximate Computing and Approximate Stacking Memory for Low-power Neuromorphic Computing (2024)
+    - Project website: \[[URL](projects/2024-CRF.md)\] 
+
+
+### Finished projects
+
+- UoA Competitive Research Funding (Ref. 2023-26):  Low-power Spiking Neural Network Solution for IoT and Edge devices (2023)
+    - Project website: \[[URL](projects/2023-CRF.md)\] 
+
+- NAFOSTED (Ref. No. 102.01-2018.312): Hotspot aware Fault-Tolerant Architectures and Algorithms for TSV-based 3D Network-on-Chips  (2019-2021)
+    - Project website: \[[URL](projects/2018-NAFOSTED.md)\] 
 
 ## Grants
 
@@ -47,9 +63,9 @@ Details of our ongoing and completed projects can be found [here](project.md).
 
 1. **Second Prize** in the **Vietnamese Nhan Tai Dat Viet Award 2015**. Awarded for our VENGME H.264/AVC encoding chip, for which I was part of the design team.
 2. **Best Student Paper Award** at the **International Symposium on Ubiquitous Networking (UNet 2021)** for the paper:  
-   - *Ogbodo Mark Ikechukwu, Khanh N. Dang, and Abderazek Ben. Abdallah, "Energy-Efficient Spike-Based Scalable Architecture for Next-Generation Cognitive AI Computing Systems"*. [Certificate](assets/awards/2021-Unet.jpg)
+      - *Ogbodo Mark Ikechukwu, Khanh N. Dang, and Abderazek Ben. Abdallah, "Energy-Efficient Spike-Based Scalable Architecture for Next-Generation Cognitive AI Computing Systems"*. [Certificate](assets/awards/2021-Unet.jpg)
 3. **Best Paper Award** at the **2023 IEEE 6th International Conference on Electronics Technology (ICET)** for the paper:  
-   - *Jiangkun Wang, Khanh N. Dang, and Abderazek Ben Abdallah, "Scaling Deep-Learning Pneumonia Detection Inference on a Reconfigurable Self-Contained Hardware Platform"*.
+      - *Jiangkun Wang, Khanh N. Dang, and Abderazek Ben Abdallah, "Scaling Deep-Learning Pneumonia Detection Inference on a Reconfigurable Self-Contained Hardware Platform"*.
 
 ## Collaborators
 

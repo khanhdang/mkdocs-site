@@ -1,4 +1,7 @@
-
+---
+hide:
+- navigation
+---
 
 # Student Projects
 
@@ -22,12 +25,12 @@ This project involves designing a simple game on an Artix-7 (AC701) board using 
   <tr>
     <td>
       <video width="100%" controls>
-        <source src="assets/videos/RTES/snake-1-noaudio.mp4" type="video/mp4">
+        <source src="../assets/videos/RTES/snake-1-noaudio.mp4" type="video/mp4">
       </video>
     </td>
     <td>
       <video width="100%" controls>
-        <source src="assets/videos/RTES/snake-2-noaudio.mp4" type="video/mp4">
+        <source src="../assets/videos/RTES/snake-2-noaudio.mp4" type="video/mp4">
       </video>
     </td>
   </tr>
@@ -38,12 +41,12 @@ This project involves designing a simple game on an Artix-7 (AC701) board using 
   <tr>
     <td>
       <video width="100%" controls>
-        <source src="assets/videos/RTES/fbird-noaudio.mp4" type="video/mp4">
+        <source src="../assets/videos/RTES/fbird-noaudio.mp4" type="video/mp4">
       </video>
     </td>
     <td>
       <video width="100%" controls>
-        <source src="assets/videos/RTES/fighter-noaudio.mp4" type="video/mp4">
+        <source src="../assets/videos/RTES/fighter-noaudio.mp4" type="video/mp4">
       </video>
     </td>
   </tr>
@@ -58,13 +61,6 @@ This project involves designing a simple game on an Artix-7 (AC701) board using 
 
 ## Student Design and Research Contributions
 
-### Approximate Izhikevich Neuron Model
-
-In this project, a fourth-year (B4) student employed Approximate Computing to balance computational accuracy with hardware efficiency. Rather than simply using approximate adders and multipliers in the Izhikevich neuron model, this work explores a variety of combinations of these components, utilizing an approximation-aware approach.
-
-For more details, refer to the paper: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10616602)
-
----
 
 ## Student Competitions
 

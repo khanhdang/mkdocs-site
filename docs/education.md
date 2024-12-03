@@ -1,5 +1,7 @@
-
-
+---
+hide:
+- navigation
+---
 
 # Education
 
@@ -33,4 +35,4 @@
 
 ## Mentoring
 
-Visit [this page](mentor.html) for projects that were done by the students under my supervision in the past.
+Visit [this page](mentor.md) for projects that were done by the students under my supervision in the past.

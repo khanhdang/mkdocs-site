@@ -1,9 +1,15 @@
+---
+hide:
+- navigation
+---
 
 # Publication
 
-!!! note "Disclaimer"
-    - This page contains PDF files of articles that might be covered by copyright. Please do not retrieve, copy, or distribute these files as it may violate copyright protection laws.
-    - <u>Underlined authors</u> are students under my direct supervision.
+!!! warning "Disclaimer"
+    This page contains PDF files of articles that might be covered by copyright. Please do not retrieve, copy, or distribute these files as it may violate copyright protection laws.
+
+!!! info
+    <u>Underlined authors</u> are students under my direct supervision.
 
 
 
@@ -44,7 +50,11 @@
 1. **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, *''A Low-overhead Soft-Hard Fault Tolerant Architecture, Design and Management Scheme for Reliable High-performance Many-core 3D-NoC Systems''*, **Journal of Supercomputing (SUPE)**, Springer, Volume 73, Issue 6, pp. 2705–2729, 2017.  \[[DOI: 10.1007/s11227-016-1951-0](https://link.springer.com/article/10.1007/s11227-016-1951-0)\]/\[[PDF](./share/pubs/SUPE-2017.pdf)\].
 {: reversed=''reversed''}
 
-## Domestical journal paper (not indexed)
+## Domestical paper
+
+
+!!! info
+    Following are some papers I co-wrote for domestical journal in Vietnam. They were not indexed at the submission time.
 
 1. **Khanh N. Dang**, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, *''Thermal distribution and reliability prediction for 3D Networks-on-Chip''*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 36, No 1, pp. 65-77, 2020. \[[DOI:10.25073/2588-1086/vnucsce.245]( https://doi.org/10.25073/2588-1086/vnucsce.245)\].
 2. **Khanh N. Dang**, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, *''2D Parity Product Code for TSV online fault correction and detection''*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 11-21, Vol. 8, No. 1-2, Jan. - Jun., 2020. \[[DOI: 10.21553/rev-jec.242](http://dx.doi.org/10.21553/rev-jec.242)\]. 

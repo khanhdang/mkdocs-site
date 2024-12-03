@@ -1,18 +1,25 @@
+---
+hide:
+- navigation
+- toc
+---
 
-# Welcome! ようこそ！
+# Welcome! ようこそ！ Xin chào! Bonjour!
 
-
+![Image title](./assets/images/Khanh_N_DANG.jpg){ align=right width="200"}
 Hello! My name is Khanh N. Dang (in Vietnamese: Đặng Nam Khánh, in Japanese: ダン ナム カイン).
 
 I am currently an **Associate Professor** in the Division of Computer Engineering, Department of Computer Science and Engineering, [The University of Aizu](https://www.u-aizu.ac.jp/en/). I earned my Ph.D. from the University of Aizu and my M.Sc. from [Paris XI University](https://en.wikipedia.org/wiki/Paris-Sud_University) (now [Paris-Saclay University](https://www.universite-paris-saclay.fr/en)). Prior to joining the University of Aizu, I worked at [Vietnam National University, Hanoi](https://vnu.edu.vn/eng/) and [Dolphin-IC](https://www.dolphin-ic.com/).
 
 **Research Interests:** My current research covers three key topics: *carbon-efficient computing*, *generative AI*, and *neuromorphic computing*. I am particularly interested in advancing neuromorphic computing architectures that mimic the biological brain's processes to achieve ultra-low-power and scalable solutions suitable for safe, responsible real-world deployment.
 
-**Links**: [Contact Info](contact.html) / [Laboratory Website](https://web-ext.u-aizu.ac.jp/misc/neuro-eng/)
+**Links**: [Contact Info](contact.md) / [Laboratory Website](https://web-ext.u-aizu.ac.jp/misc/neuro-eng/)
 
-**Prospective Students:** Research opportunities in VLSI design, carbon-efficient computing, and neuromorphic computing are available for GT undergraduate and graduate students. Interested candidates are encouraged to email their **resume**, **transcript**, and a **brief statement** explaining their interest in joining our group.
-*Note:* Due to the high volume of emails, I may not respond if your research interests do not align closely with mine or if the required documents are not attached.
-{: .announce}
+!!! success "Prospective Students"
+        Research opportunities in VLSI design, carbon-efficient computing, and neuromorphic computing are available for GT undergraduate and graduate students. Interested candidates are encouraged to email their **resume**, **transcript**, and a **brief statement** explaining their interest in joining our group.
+
+!!! warning "Note" 
+        Due to the high volume of emails, I may not respond if your research interests do not align closely with mine or if the required documents are not attached.
 
 ## News
 

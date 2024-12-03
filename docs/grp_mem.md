@@ -1,6 +1,9 @@
+---
+hide:
+- navigation
+---
 
 # Group Member
-
 
 ## Graduate Student
 

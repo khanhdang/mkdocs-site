@@ -42,12 +42,12 @@ theme:
   font: false
   features:
     - navigation.tracking
-    # - navigation.tabs
+    - navigation.tabs
     - navigation.tabs.sticky
     - navigation.instant
-    # - navigation.sections
+    - navigation.sections
     - toc.follow
-    - toc.integrate
+    # - toc.integrate
     - navigation.top
     - navigation.indexes
     - navigation.path
@@ -82,10 +82,13 @@ theme:
 nav: 
   - 'Home': index.md
   - 'Research': research.md
+  - 'Patent': patent.md
   - 'Publication': pub.md
   - 'Teaching': education.md
   - 'Group': grp_mem.md
   - 'Mentoring': mentor.md
+  - 'Service': service.md
+  - 'Open-source': open.md
   - 'Contact': contact.md
 
 plugins:
