@@ -56,7 +56,7 @@ theme:
 
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
-      primary: orange
+      primary: black
       accent: orange
       toggle:
         icon: material/brightness-auto
@@ -64,7 +64,7 @@ theme:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      primary: orange
+      primary: black
       accent: orange
       scheme: default 
       toggle:
