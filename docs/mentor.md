@@ -5,7 +5,7 @@ hide:
 
 # Mentoring
 
-!!! note 
+!!! success "About the projects" 
         I am pleased to have had the opportunity to work with several talented students. The projects listed below were created by these students, with my role being that of a guide.
 
 

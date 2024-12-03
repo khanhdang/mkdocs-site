@@ -71,7 +71,7 @@ We tackle complex Computer-Aided Design (CAD) challenges using machine learning 
 
 *(in alphabetical order)*
 
-- Akram Ben Ahmed, National Institute of Advanced Industrial Science and Technology (AIST), Japan
-- Nguyen Anh Vu Doan, Infineon Technologies AG, Germany
-- Michael Meyer, Eastern Washington University, USA
-- Xuan-Tu Tran, Vietnam National University, Hanoi, Vietnam
+- [Akram Ben Ahmed, National Institute of Advanced Industrial Science and Technology (AIST), Japan](https://scholar.google.com.vn/citations?user=L1334B4AAAAJ&hl=en)
+- [Michael Meyer, Eastern Washington University, USA](https://scholar.google.com.vn/citations?user=NxzGpZwAAAAJ&hl=en)
+- [Nguyen Anh Vu Doan, Infineon Technologies AG, Germany](https://scholar.google.com.vn/citations?user=P_dYs6UAAAAJ&hl=en)
+- [Xuan-Tu Tran, Vietnam National University, Hanoi, Vietnam](https://scholar.google.com.vn/citations?user=Z_SaacsAAAAJ&hl=en)

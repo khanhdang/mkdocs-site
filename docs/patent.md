@@ -5,7 +5,7 @@ hide:
 
 # Patent
 
-!!! info
+!!! info ""
     Google Patents List: [https://patents.google.com/?inventor=Nam+Khanh+Dang](https://patents.google.com/?inventor=Nam+Khanh+Dang)
 
 

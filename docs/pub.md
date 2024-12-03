@@ -5,10 +5,10 @@ hide:
 
 # Publication
 
-!!! warning "Disclaimer"
+??? warning "Disclaimer"
     This page contains PDF files of articles that might be covered by copyright. Please do not retrieve, copy, or distribute these files as it may violate copyright protection laws.
 
-!!! info
+??? info "Supervised Student"
     <u>Underlined authors</u> are students under my direct supervision.
 
 
@@ -53,7 +53,7 @@ hide:
 ## Domestical paper
 
 
-!!! info
+??? info "Indexing"
     Following are some papers I co-wrote for domestical journal in Vietnam. They were not indexed at the submission time.
 
 1. **Khanh N. Dang**, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, *''Thermal distribution and reliability prediction for 3D Networks-on-Chip''*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 36, No 1, pp. 65-77, 2020. \[[DOI:10.25073/2588-1086/vnucsce.245]( https://doi.org/10.25073/2588-1086/vnucsce.245)\].
@@ -72,12 +72,12 @@ hide:
 28. <u>Ngo-Doanh Nguyen</u>, **Khanh N. Dang**, *''A Novel Yield Improvement Approach for 3D Stacking Neuromorphic Architecture''*, **2023 IEEE 16th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)**, Dec. 18-21, 2023.
 27.  W. Y. Yerima, **Khanh N. Dang**, and A. B. Abdallah, *''Fault Recovery in Spiking Neural Networks Through Target and Selection of Faulty Neurons for 3D Spiking Neuromorphic Processors''*, **6th IEEE International Conference on Knowledge Innovation and Invention 2023**, Aug. 11-13, 2023.
 26. Mohamed Maatar, **Khanh N. Dang** and Abderazek Ben Abdallah, *''Thermal-Aware Task-Mapping Algorithm and Architecture for 3D-NoC-Based Event-Driven Neuromorphic System''*, **2023 IEEE 6th International Conference on Electronics Technology (ICET)**, May 12-15, 2023. 
-25.  Jiangkun Wang, **Khanh N. Dang** and Abderazek Ben Abdallah, *''Scaling Deep-Learning Pneumonia Detection Inference on a Reconfigurable Self-Contained Hardware Platform''*, **2023 IEEE 6th International Conference on Electronics Technology (ICET)**, May 12-15, 2023. **Best Student Paper Award**
+25.  Jiangkun Wang, **Khanh N. Dang** and Abderazek Ben Abdallah, *''Scaling Deep-Learning Pneumonia Detection Inference on a Reconfigurable Self-Contained Hardware Platform''*, **2023 IEEE 6th International Conference on Electronics Technology (ICET)**, May 12-15, 2023. ==Best Student Paper Award==
 24. Cheng Hong, Sinchhean Phea, **Khanh N. Dang**, Abderazek Ben Abdallah, *''The AIzuHand Neuromorphic Prosthetic Hand''*, **The 5th ETLTC International Conference on ICT Integration in Technical Education (ETLTC2023)**, January 24-27, 2023.
 23. Masaki Watanabe, **Khanh N. Dang**, Abderazek Ben Abdallah, *''Multimodal sEMG and Speech-Based Design and Evaluation of a Low-Cost'',* **The 5th ETLTC International Conference on ICT Integration in Technical Education (ETLTC2023)**, January 24-27, 2023.
 22. Tomohide Fukuchi,   Mark Ikechukwu Ogbodo, Jiangkun Wang,  **Khanh N. Dang** and Abderazek Ben Abdallah, *''Efficient Pneumonia Detection Method and Implementation in Chest X-ray Images Based on a Neuromorphic Spiking Neural Network''*, Springer Lecture Notes in Computer Science (LNCS), **14th International Conference on Computational Collective Intelligence Technologies and Applications**, September 24-26, 2022.
 21. Ogbodo Mark Ikechukwu, **Khanh N. Dang** and Abderazek Ben Abdallah, *''Study of a Multi-modal Neurorobotic Prosthetic Arm Control System based on Recurrent Spiking Neural Network''*, **The 4th ETLTC International Conference on ICT Integration in Technical Education (ETLTC2022)**, January 25-28, 2022. 
-20. Ogbodo Mark Ikechukwu, **Khanh N. Dang** and Abderazek Ben Abdallah, *''Energy-efficient Spike-based Scalable Architecture for Next-generation Cognitive AI Computing Systems''* Springer Lecture  Note in Computer Science (LNCS), **International Symposium on Ubiquitous Networking 2021 (UNET21)**, May 19 – May 22, 2021, Marakesh, Morocco.  **Best Student Paper Award**
+20. Ogbodo Mark Ikechukwu, **Khanh N. Dang** and Abderazek Ben Abdallah, *''Energy-efficient Spike-based Scalable Architecture for Next-generation Cognitive AI Computing Systems''* Springer Lecture  Note in Computer Science (LNCS), **International Symposium on Ubiquitous Networking 2021 (UNET21)**, May 19 – May 22, 2021, Marakesh, Morocco.  ==Best Student Paper Award==
 19. Duy-Anh Nguyen, Xuan-Tu Tran, **Khanh N. Dang**, and Francesca Iacopi,  *''A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks''*,  **2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)**, Dec. 8-10, 2020.
 18. **Khanh N. Dang**, Akram Ben Ahmed, Fakhrul Zaman Rokhani, Abderazek Ben Abdallah, and Xuan-Tu Tran, *''A thermal distribution, lifetime reliability prediction and spare TSV insertion platform for stacking 3D NoCs''*, **2020 International Conference On Advanced Technologies For Communications (ATC)**, Nov. 8-10, 2020.
 17. Ogbodo Mark Ikechukwu, **Khanh N. Dang**, Tomohide Fukuchi, Abderazek Ben Abdallah, *''Architecture and Design of a Spiking Neuron Processor Core Towards the Design of a Large-scale Event-Driven 3D-NoC-based Neuromorphic Processor''*, **The ACM Chapter International Conference on Educational Technology, Language and Technical Communication (ETLTC)**, Jan. 27-31, 2020.

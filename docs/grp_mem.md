@@ -34,5 +34,5 @@ hide:
 
 
 
-## Previous projects
-Visit [this page](mentor.html) for projects that were done by the students under my supervision in the past.
+!!! success "Students' projects"
+        Visit [this page](mentor.md) for projects that were done by the students under my supervision in the past.
