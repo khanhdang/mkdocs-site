@@ -91,6 +91,7 @@ nav:
 
 plugins:
   - search
+  # - glightbox
   - encryptcontent: 
         title_prefix: ''
         summary: '㊙️ This page is encrypted. '
