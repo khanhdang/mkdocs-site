@@ -1,6 +1,5 @@
 site_name: "Khanh N. Dang"
 
-index_page: [index.md]
 markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
@@ -40,9 +39,12 @@ theme:
   name: material
   logo: assets/logo.svg
   favicon: assets/favicon.png
-  font: false
+  # font: false
+  font:
+    text: "Noto Sans Japanese"
+    code: "Noto Sans Mono"
+
   features:
-    - navigation.footer
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
@@ -53,16 +55,9 @@ theme:
     - navigation.top
     - navigation.indexes
     - navigation.path
-
+    - header.autohide
   palette:
 
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      primary: white
-      accent: orange
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -70,8 +65,8 @@ theme:
       accent: orange
       scheme: default 
       toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
+        icon: material/weather-sunny
+        name: Switch to light mode
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -79,8 +74,8 @@ theme:
       accent: orange
       scheme: slate
       toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
+        icon: material/weather-night
+        name: Switch to dark mode
 nav: 
   - 'Home': index.md
   - 'Research': research.md
@@ -107,6 +102,9 @@ extra:
       link: https://github.com/klab-aizu
     - icon: fontawesome/brands/slack
       link: https://klab-aizu.slack.com/
+  analytics:
+    provider: google
+    property: G-N80STK0V0X
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -115,4 +113,4 @@ extra_javascript:
 
 extra_css:
   - stylesheets/extra.css
-copyright: Copyright &copy; 2016 -  Khanh N. Dang. All rights are reserved unless under certain specific statements. The website is built using mkdocs and updated using cron.
+copyright: Copyright &copy; 2016 -  Khanh N. Dang. All rights are reserved unless under certain specific statements. 

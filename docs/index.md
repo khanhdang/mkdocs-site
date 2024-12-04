@@ -13,7 +13,6 @@ I am currently an **Associate Professor** in the Division of Computer Engineerin
 
 **Research Interests:** My current research covers three key topics: *(1) carbon-efficient computing*, *(2) 3D-IC technology*, and *(3) neuromorphic computing*. I am particularly interested in advancing computing architectures that achieve ultra-low-power and scalable solutions suitable for safe, responsible real-world deployment.
 
-**Links**: [Contact Info](contact.md) 
 
 !!! success "Prospective Students"
         Research opportunities in VLSI design, carbon-efficient computing, and neuromorphic computing are available for GT undergraduate and graduate students. Interested candidates are encouraged to email their **resume**, **transcript**, and a **brief statement** explaining their interest in joining our group. 
