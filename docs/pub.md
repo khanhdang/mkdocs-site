@@ -5,7 +5,7 @@ hide:
 
 # Publication
 
-??? warning "Disclaimer"
+!!! warning "Disclaimer"
     This page contains PDF files of articles that might be covered by copyright. Please do not retrieve, copy, or distribute these files as it may violate copyright protection laws.
 
 [^1]:    Student under my direct supervision.
@@ -19,14 +19,14 @@ hide:
 ## Book chapter
 
 
-1. Ngo-Doanh Nguyen[^1], Akram Ben Ahmed, Abderazek Ben Abdallah, Khanh N. Dang, *''Low-power 3D-IC-based Spiking Neural Network''*, Energy-Efficient Devices and Circuits for Neuromorphic Computing, **Elsevier**, 2025 (to be published).
+1. Ngo-Doanh Nguyen[^1], Akram Ben Ahmed, Abderazek Ben Abdallah, Khanh N. Dang, *''Low-power 3D-IC-based Spiking Neural Network''*, Energy-Efficient Devices and Circuits for Neuromorphic Computing, **Elsevier**, 2025 ==(under-review)==.
 2. Xuan-Tu Tran, Khanh N. Dang, Duy-Hieu Bui, and Alain Merigot, *''Low Cost Inter-prediction Architecture in H.264/AVC Encoders with an Efficient Data Reuse Strategy''*, Advances in Engineering Research. Volume 40, Chapter 6. **Nova Science Publishers**, 2020. ISBN 978-1-53618-929-2. \[[LINK](https://novapublishers.com/shop/advances-in-engineering-research-volume-40/)\]. 
 3. Khanh N. Dang and Abderazek Ben Abdallah, *''Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems''*, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. ISBN: 978-1-53613-327-1. \[[LINK](https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/)\]/\[[PDF](./share/pubs/NOVA-2018.pdf)\].
 {: reversed=''reversed''}
 
 ## Journal paper 
 
-20. Ngo-Doanh Nguyen[^1], Khanh N. Dang,  Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *''NOMA: A Novel Reliability Improvement Methodology for 3-D IC-based Neuromorphic Systems''*, **IEEE Transactions on Components, Packaging and Manufacturing Technology**, 2024 (accepted).   \[[DOI: 10.1109/TCPMT.2024.3488113](https://doi.org/10.1109/TCPMT.2024.3488113)\],	\[[PDF](./share/pubs/TCPMT-2024.pdf
+20. Ngo-Doanh Nguyen[^1], Khanh N. Dang,  Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *''NOMA: A Novel Reliability Improvement Methodology for 3-D IC-based Neuromorphic Systems''*, **IEEE Transactions on Components, Packaging and Manufacturing Technology**, 2024 ==(accepted)==.   \[[DOI: 10.1109/TCPMT.2024.3488113](https://doi.org/10.1109/TCPMT.2024.3488113)\],	\[[PDF](./share/pubs/TCPMT-2024.pdf
 )\]
 19. Pham-Khoi Dong, Khanh N. Dang,  Duy-Anh Nguyen, Xuan-Tu Tran, *''A light-weight neuromorphic controlling clockgating based multi-core cryptography platform''*, **Microprocessors and Microsystems** , vol. 106, pp. 105040, 2024. \[[DOI: 10.1016/j.micpro.2024.105040](https://doi.org/10.1016/j.micpro.2024.105040)\],	\[[Source Code](https://github.com/khanhdang/Spike-MCryptCores)\]
 18. Ngo-Doanh Nguyen[^1], Akram Ben Ahmed, Abderazek Ben Abdallah, Khanh N. Dang, *''Power-aware Neuromorphic Architecture with Partial Voltage Scaling 3D Stacking Synaptic Memory''*, **IEEE Transactions on Very Large Scale Integration Systems (TVLSI)**,  vol. 31, no. 12, pp. 2016-2029, Dec. 2023. \[[DOI: 10.1109/TVLSI.2023.3318231](https://doi.org/10.1109/TVLSI.2023.3318231)\]/\[[PDF](./share/pubs/TVLSI-2023.pdf)\].
@@ -49,11 +49,10 @@ hide:
 1. Khanh N. Dang, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, *''A Low-overhead Soft-Hard Fault Tolerant Architecture, Design and Management Scheme for Reliable High-performance Many-core 3D-NoC Systems''*, **Journal of Supercomputing (SUPE)**, Springer, Volume 73, Issue 6, pp. 2705–2729, 2017.  \[[DOI: 10.1007/s11227-016-1951-0](https://link.springer.com/article/10.1007/s11227-016-1951-0)\]/\[[PDF](./share/pubs/SUPE-2017.pdf)\].
 {: reversed=''reversed''}
 
-## Domestical paper
+## Domestical paper [^2]
 
 
-??? info "Indexing"
-    Following are some papers I co-wrote for domestical journal in Vietnam. They were not indexed at the submission time.
+[^2]:    Following are some papers I co-wrote for domestical journal in Vietnam. They were not indexed at the submission time.
 
 1. Khanh N. Dang, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, *''Thermal distribution and reliability prediction for 3D Networks-on-Chip''*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 36, No 1, pp. 65-77, 2020. \[[DOI:10.25073/2588-1086/vnucsce.245]( https://doi.org/10.25073/2588-1086/vnucsce.245)\].
 2. Khanh N. Dang, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, *''2D Parity Product Code for TSV online fault correction and detection''*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 11-21, Vol. 8, No. 1-2, Jan. - Jun., 2020. \[[DOI: 10.21553/rev-jec.242](http://dx.doi.org/10.21553/rev-jec.242)\]. 

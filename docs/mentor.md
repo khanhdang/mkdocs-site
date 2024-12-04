@@ -12,7 +12,7 @@ hide:
 ## Class Project
 
 ### Course: Real-time Gaming Systems
-This project involves designing a simple game on an Artix-7 (AC701) board using dual-core MicroBlaze processors, where one core controls HDMI output, and the other manages and renders the game. The game logic is implemented with FreeRTOS.
+This project involves designing a simple game on a Xilinx Artix-7 (AC701) board using dual-core MicroBlaze processors, where one core controls HDMI output, and the other manages and renders the game. The game logic is implemented with FreeRTOS.
 
 #### Links
 - **Vivado Project:** [GitHub](https://github.com/RTES-Class/AC701-DualMB-System)
