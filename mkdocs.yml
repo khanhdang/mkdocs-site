@@ -86,8 +86,7 @@ nav:
   - 'Mentoring': mentor.md
   - 'Service': service.md
   - 'Open-source': open.md
-  - 'Link': link.md
-  - 'Journal & Conference List': jclist.md
+  - 'Resource': resource.md
   - 'Lab Website': https://web-ext.u-aizu.ac.jp/misc/neuro-eng/
   - 'Contact': contact.md
 
