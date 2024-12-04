@@ -122,6 +122,6 @@ Below are some useful journals and conferences along with their submission deadl
 
 ### Similar lists on academic reading/writing/presenting
 
-- https://www.cs.tufts.edu/~nr/students/
-- http://www.ece.ucsb.edu/~yuanxie/Advice.html
-- https://github.com/macoj/phd/
+- [https://www.cs.tufts.edu/~nr/students/](https://www.cs.tufts.edu/~nr/students/)
+- [http://www.ece.ucsb.edu/~yuanxie/Advice.html](http://www.ece.ucsb.edu/~yuanxie/Advice.html)
+- [https://github.com/macoj/phd/](https://github.com/macoj/phd/)

@@ -29,8 +29,6 @@
 
 
 
-
-
 /* remove top bar shadow */
 
 .md-header{
@@ -62,9 +60,6 @@
 [data-md-color-primary=white]  .md-copyright__highlight {
     color : #999999;
 }
-
-
-
 
 
 [dir=ltr] .md-header__title {

@@ -99,11 +99,11 @@ plugins:
         
 extra:
   generator: false
-  social:
-    - icon: fontawesome/brands/github 
-      link: https://github.com/klab-aizu
-    - icon: fontawesome/brands/slack
-      link: https://klab-aizu.slack.com/
+  # social:
+  #   - icon: fontawesome/brands/github 
+  #     link: https://github.com/klab-aizu
+  #   - icon: fontawesome/brands/slack
+  #     link: https://klab-aizu.slack.com/
   analytics:
     provider: google
     property: G-N80STK0V0X
