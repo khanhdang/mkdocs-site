@@ -13,7 +13,7 @@ In this project, we solve the reliabilty challenges of Through-Silicon-Via based
 This projected is funded by NAFOSTED - National Foundation for Science and Technology Development ([https://nafosted.gov.vn/en/](https://nafosted.gov.vn/en/)) from 2019 to 2021.
 
 
-![Image title](../../assets/projects/NAFOSTED-2018_2.PNG){align=  width="100%"}
+![Image title](../assets/projects/NAFOSTED-2018_2.PNG){align=  width="100%"}
 *Caption: Final Framework of TSV Placement (see: \[[DOI: 10.1109/TCAD.2021.3069370](https://doi.org/10.1109/TCAD.2021.3069370)\])*
 
 
@@ -24,7 +24,7 @@ This projected is funded by NAFOSTED - National Foundation for Science and Techn
 
 
 8. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *''HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems''*, **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, IEEE, Volume 41, No. 4,  pp. 799-812, April 2022. \[[DOI: 10.1109/TCAD.2021.3069370](https://doi.org/10.1109/TCAD.2021.3069370)\]/\[[PDF](../share/pubs/TCAD-2021.pdf)\].
-12. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *''A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems''*, **IEEE Access**, IEEE, Volume 8, pp. 166642-166657, 2020. \[[DOI: 10.1109/ACCESS.2020.3022904](https://doi.org/10.1109/ACCESS.2020.3022904 )\]/\[[PDF](../share/pubs/ACCESS-2022-2.pdf)\].
+12. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *''A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems''*, **IEEE Access**, IEEE, Volume 8, pp. 166642-166657, 2020. \[[DOI: 10.1109/ACCESS.2020.3022904](https://doi.org/10.1109/ACCESS.2020.3022904 )\]/\[[PDF](../share/pubs/ACCESS-2020-2.pdf)\].
 13. **Khanh N. Dang**, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, *''TSV-OCT: A Scalable Online Multiple-TSV Defects Localization for Real-Time 3-D-IC Systems''*, **IEEE Transactions on Very Large Scale Integration Systems (TVLSI)**, IEEE, Volume 28, Issue 3, pp. 672 - 685, 2020. \[[DOI: 10.1109/TVLSI.2019.2948878](https://doi.org/10.1109/TVLSI.2019.2948878)\]/\[[PDF](../share/pubs/TVLSI-2019.pdf)\].
 
 ### Conference
