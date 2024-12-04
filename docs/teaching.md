@@ -21,7 +21,7 @@ hide:
   
 ## Previous Courses
 
-- SE08: **Introduction of Data Mining** (Ex.), University of Aizu, *Undergraduate*. (renamed)
+- SE08: **Introduction of Data Mining[^1]** (Ex.), University of Aizu, *Undergraduate*.
 - FU03: **Discrete Systems** (Lec./Ex.), University of Aizu, *Undergraduate*.
 - INT2212: **Computer Architecture**, Vietnam National University, Hanoi, *Undergraduate*.
 - ELT3071: **Real-time Embedded Systems**, Vietnam National University, Hanoi, *Undergraduate*.
@@ -36,3 +36,5 @@ hide:
 ## Mentoring
 
 Visit [this page](mentor.md) for projects that were done by the students under my supervision in the past.
+
+[^1]: The course is renamed to **Introduction of Big Data Analytics**

@@ -5,8 +5,6 @@ hide:
 
 # Patent
 
-!!! info ""
-    Google Patents List: [https://patents.google.com/?inventor=Nam+Khanh+Dang](https://patents.google.com/?inventor=Nam+Khanh+Dang)
 
 
 ### Patent Pending

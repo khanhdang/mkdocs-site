@@ -43,7 +43,8 @@ theme:
   font:
     text: "Noto Sans Japanese"
     code: "Noto Sans Mono"
-
+  icon:
+    annotation: material/arrow-right-circle
   features:
     - navigation.tracking
     - navigation.tabs
