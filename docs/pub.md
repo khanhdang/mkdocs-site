@@ -20,9 +20,9 @@ hide:
 ## Book chapter
 
 
-1. Ngo-Doanh Nguyen, Akram Ben Ahmed, Abderazek Ben Abdallah, **Khanh N. Dang** *''Low-power 3D-IC-based Spiking Neural Network''*, Energy-Efficient Devices and Circuits for Neuromorphic Computing, **Elsevier**, 2025 (to be published).
+1. <u>Ngo-Doanh Nguyen</u>, Akram Ben Ahmed, Abderazek Ben Abdallah, **Khanh N. Dang** *''Low-power 3D-IC-based Spiking Neural Network''*, Energy-Efficient Devices and Circuits for Neuromorphic Computing, **Elsevier**, 2025 (to be published).
 2. Xuan-Tu Tran, **Khanh N. Dang**, Duy-Hieu Bui, and Alain Merigot, *''Low Cost Inter-prediction Architecture in H.264/AVC Encoders with an Efficient Data Reuse Strategy''*, Advances in Engineering Research. Volume 40, Chapter 6. **Nova Science Publishers**, 2020. ISBN 978-1-53618-929-2. \[[LINK](https://novapublishers.com/shop/advances-in-engineering-research-volume-40/)\]. 
-3. **Khanh N. Dang** and Abderazek Ben Abdallah, *''Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems''*, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. ISBN: 978-1-53613-327-1. \[[LINK](https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/)\]/\[[PDF](http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf)\].
+3. **Khanh N. Dang** and Abderazek Ben Abdallah, *''Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems''*, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. ISBN: 978-1-53613-327-1. \[[LINK](https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/)\]/\[[PDF](./share/pubs/NOVA-2018.pdf)\].
 {: reversed=''reversed''}
 
 ## Journal paper 
