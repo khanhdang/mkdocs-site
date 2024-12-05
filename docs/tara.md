@@ -80,7 +80,7 @@ We believe that hard work and dedication can lead to remarkable achievements, ev
 ### Case 1: PI's Journey  
 
 Our Principal Investigator (PI) completed his Ph.D. program as a self-financed student, fully supported by RA and TA positions.  
-With perseverance and consistent effort, they not only managed their finances but also built a strong foundation for a successful academic career.
+With perseverance and consistent effort, he not only managed his finances but also built a strong foundation for a successful academic career.
 
 ### Case 2: Master's Student Success  
 
