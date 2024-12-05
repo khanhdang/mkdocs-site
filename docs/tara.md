@@ -5,6 +5,7 @@
 !!! tip "Our message"
     - We wholeheartedly support students who face financial difficulties and are willing to work hard to contribute to our lab and advance their academic journey. 
     - Please discuss about this topic as soon as you want to join us.
+    - Think it as an investment: completing your journey here opens many more opportunites (jobs, further studies, etc...).
 
 
 ## Part-time at local companies
@@ -63,7 +64,10 @@ The RA position involves working on research projects, contributing to coding, d
 ## Important Notes
 - **Fluctuating Availability:**  
   RA positions depend on project funding and the student’s skills. We recommend students proactively develop their technical skills to increase eligibility.
-  
+
+- **Expense:**  
+  Tuition fee is approximately **45,000** per month and living cost is around **50,000** if you cook.
+
 - **TA/RA Support in Japanese Yen:**  
   All amounts listed are in **Japanese Yen (JPY)**.
 

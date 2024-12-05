@@ -6,7 +6,6 @@ hide:
 # Group Member
 
 
-
 ## Graduate Student
 
 - M1: Mohamed Yassine Khedher (co-supervised with Prof. [BEN ABDALLAH Abderazek](https://u-aizu.ac.jp/research/faculty/detail?cd=90029&lng=en))

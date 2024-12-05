@@ -2,7 +2,8 @@
 # Scholarship
 
 !!! note "Eligibility"  
-        This page is mainly for international students. I am not familiar with scholarships for Japanese students. Please contact the university for more information regarding domestic scholarships.
+        - This page is mainly for international students. I am not familiar with scholarships for Japanese students. Please contact the university for more information regarding domestic scholarships.
+        - These are two common scholarships, there are different ones such as JASSO or SAISUA.
  
 
 ## **MEXT Scholarship**  
