@@ -6,7 +6,8 @@
     Below is a step-by-step guide to the application process, including information about key scholarship opportunities such as the MEXT Scholarship and the Rotary Scholarship.
 
 !!! warning "For undergraduate students at UoA"
-    Annually, we deliver laboratory introduction presentation internally. Please attend the presenation, ask questions and consider.
+    Annually, we deliver an internal laboratory introduction presentation. Please attend the presentation, ask questions, and give thoughtful consideration to the topics discussed.
+
 
 ## Step 1: Initial Inquiry
 ### Research Interest
@@ -21,7 +22,11 @@
 Email the Principal Investigator (PI) with the following:
 
 - Your CV 
-    - For UoA undegraduate students: please state your GPA and the final grades of these course: C Programming/C++ Programming/Java Programming I/Logic Circuit Design.
+    - For UoA undergraduate students: Please provide your GPA and the final grades for the following courses:
+        - C Programming
+        - C++ Programming
+        - Java Programming I
+        - Logic Circuit Design
 - A brief statement of research interests
 - Any publications or relevant experience (optional)
 

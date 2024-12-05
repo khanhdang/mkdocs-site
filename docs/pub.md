@@ -26,7 +26,6 @@ hide:
 
 ## Journal paper 
 
-### IEEE Transactions
 
 20. Ngo-Doanh Nguyen[^1], Khanh N. Dang,  Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *''NOMA: A Novel Reliability Improvement Methodology for 3-D IC-based Neuromorphic Systems''*, **IEEE Transactions on Components, Packaging and Manufacturing Technology**, 2024 ==(accepted)==.   \[[DOI: 10.1109/TCPMT.2024.3488113](https://doi.org/10.1109/TCPMT.2024.3488113)\],	\[[PDF](./share/pubs/TCPMT-2024.pdf
 )\]

@@ -6,7 +6,7 @@ hide:
 # Open SW/HW
 
 !!! success "Download"
-        All open sourced programs are available at our GitHub: [https://github.com/klab-aizu](https://github.com/klab-aizu)
+    All open sourced programs are available at our GitHub: [https://github.com/klab-aizu](https://github.com/klab-aizu)
 
 ## Hardware
 

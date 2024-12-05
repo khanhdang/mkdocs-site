@@ -2,12 +2,25 @@
 # Scholarship
 
 !!! note "Eligibility"  
-        - This page is mainly for international students. I am not familiar with scholarships for Japanese students. Please contact the university for more information regarding domestic scholarships.
-        - These are two common scholarships, there are different ones such as JASSO or SAISUA.
+    - This page is mainly for international students. I am not familiar with scholarships for Japanese students. Please contact the university for more information regarding domestic scholarships.
+    - These are two common scholarships, there are different ones such as JASSO or SAISUA.
  
 
 ## **MEXT Scholarship**  
 The **MEXT (Monbukagakusho) Scholarship** is a prestigious scholarship offered by the Japanese government, covering tuition, a monthly stipend, and travel expenses.
+
+!!! warning "Notice"
+     Please do not email me about the MEXT scholarship if:
+
+     - Your GPA is below 3.2/4.0
+     - You do not have an English or Japanese proficiency certificate
+     - You do not have a publication in an ACM/IEEE conference or a Scopus-indexed journal
+     - Your research interests do not align with mine
+     - You are unsure about pursuing a Ph.D.
+     - You are unsure about your commitment to joining if awarded the scholarship
+     
+     Due to the high volume of emails, I will not be able to reply to inquiries that do not meet the requirements.
+
 
 **Application Timeline:**  
 
