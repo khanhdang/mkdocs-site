@@ -62,7 +62,14 @@ theme:
     - navigation.path
     - header.autohide
   palette:
-
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: white
+      accent: orange
+      scheme: default 
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       primary: black
@@ -72,14 +79,7 @@ theme:
         icon: material/weather-night
         name: Switch to dark mode
 
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      primary: white
-      accent: orange
-      scheme: default 
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+
 
 nav: 
   - 'Home': index.md
