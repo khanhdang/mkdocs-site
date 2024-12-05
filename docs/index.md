@@ -4,7 +4,7 @@ hide:
 - toc
 ---
 
-# Welcome! ようこそ！ Xin chào! Bonjour!　नमस्ते!　你好！
+# ようこそ！ Welcome! Xin chào! Bonjour!　नमस्ते!　你好！
 
 ![Image title](./assets/images/Khanh_N_DANG.jpg){class="avatar"}
 
