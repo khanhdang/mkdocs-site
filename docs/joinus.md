@@ -3,21 +3,28 @@
 # Joining Our Group
 
 !!! note "Welcome"  
-    We are excited that you are considering joining our group! Below is a step-by-step guide to the application process, including information about key scholarship opportunities such as the MEXT Scholarship and the Rotary Scholarship.
+    - We are excited that you are considering joining our group! 
+    - Below is a step-by-step guide to the application process, including information about key scholarship opportunities such as the MEXT Scholarship and the Rotary Scholarship.
+
+!!! warning "For undergraduate students at UoA"
+    Annually, we deliver laboratory introduction presentation internally. Please attend the presenation, ask questions and consider.
 
 ## Step 1: Initial Inquiry
 ### Research Interest
 - Review the Principal Investigator’s (PI) [research areas and ongoing projects on our website](research.md). Check out our [publication](pub.md) and [patent](patent.md) as well. Ensure that your interests align with our work.
 - Check the [laboratory website](https://web-ext.u-aizu.ac.jp/misc/neuro-eng/) to learn more about broader research directions. 
-- Check out "[how we work](howwework.md)" to learn about how we work in our "family" a.k.a laboratory.
-- Check out "[what you learn](whaatyoulearn.md)" to learn about what you can learn in our "family" a.k.a laboratory.
+- Check out ["how we work"](howwework.md) to learn about how we work in our "family" a.k.a laboratory.
+- Check out ["what you learn"](whaatyoulearn.md) to learn about what you can learn in our "family" a.k.a laboratory.
+
+
 
 ### Contact the PI
 Email the Principal Investigator (PI) with the following:
 
-- Your CV
+- Your CV 
+    - For UoA undegraduate students: please state your GPA and the final grades of these course: C Programming/C++ Programming/Java Programming I/Logic Circuit Design.
 - A brief statement of research interests
-- Any publications or relevant experience
+- Any publications or relevant experience (optional)
 
 You can find the PI's email at [this page](contact.md).
 

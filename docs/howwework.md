@@ -92,8 +92,3 @@ Our work in 3D-IC focuses on the next generation of microelectronics, pushing th
 
 ### Patents and Innovation
 In addition to publications, our lab actively contributes to technological innovation by **filing and securing patents** for novel ideas and technologies developed through our research.
-
-
----
-
-We look forward to supporting you on this exciting journey and helping you reach your full potential. **Welcome to the lab — welcome to the family!**

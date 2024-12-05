@@ -49,6 +49,3 @@
 
 We believe that by investing in students, we are not just advancing research — we are shaping the future. Our goal is to equip you with the tools and mindset to not only excel in research but to thrive in any challenge life presents.
 
----
-
-Welcome to our lab — we are excited to help you learn, grow, and become the best version of yourself!

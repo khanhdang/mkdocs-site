@@ -45,8 +45,7 @@ theme:
   favicon: assets/favicon.png
   # font: false
   font:
-    # text: "Noto Sans Japanese"
-    text: "Zen Maru Gothic"
+    text: "Noto Sans JP"
     code: "Noto Sans Mono"
   icon:
     annotation: material/arrow-right-circle
