@@ -3,10 +3,10 @@
 # Case Study: Mentoring
 
 !!! success "About the projects" 
-        I am pleased to have had the opportunity to work with several talented students. The projects listed below were created by these students, with my role being that of a guide.
+    I am pleased to have had the opportunity to work with several talented students. The projects listed below were created by these students, with my role being that of a guide.
 
 
-## Class Project
+## In-Class Project
 
 !!! tip ""
     This class follows the "project-based learning" principle by letting the students explore and design their own idea.

@@ -29,7 +29,7 @@ As a Teaching Assistant, students will support course instructors by assisting w
   Assist in teaching-related activities for a designated course.
   
 - **Compensation:**  
-  The salary ranges between **20,000 to 40,000 JPY** per course.
+  The stipend ranges between **20,000 to 40,000 JPY** per course.
 
 - **Workload:**  
   Students can typically take on **3 to 4 courses per year**.
@@ -54,7 +54,7 @@ The RA position involves working on research projects, contributing to coding, d
   **Note:** RA positions cannot be guaranteed in advance, as they depend on the student’s skills and the project’s needs.
 
 - **Compensation:**  
-  The salary ranges between **30,000 to 70,000 JPY** per month, depending on the project and the student’s contribution.
+  The stipend ranges between **10,000 to 70,000 JPY** per month, depending on the project and the student’s contribution.
 
 ### Additional RA Support for Doctoral Students:
 - **Doctoral students** may receive an additional RA stipend from the university, which typically covers the approximate cost of tuition fees.

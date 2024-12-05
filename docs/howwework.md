@@ -49,9 +49,9 @@ While we value research outcomes, our primary focus is on **the growth and well-
 
 - **Holistic Development**  
   Beyond technical skills, we emphasize the importance of:
-  - Effective communication and presentation.
-  - Ethical research practices.
-  - Building resilience, confidence, and a lifelong passion for learning.
+    - Effective communication and presentation.
+    - Ethical research practices.
+    - Building resilience, confidence, and a lifelong passion for learning.
 
 ### Our Goal: Students as Our Best Product
 
@@ -78,10 +78,10 @@ Together, we aim to bridge the gap between cutting-edge research and practical s
 By following the university's motto: "to Advance Knowledge for Humanity", our lab is engaged in **state-of-the-art research** in two groundbreaking fields:
 
 - **Neuromorphic Computing**  
-We are exploring innovative architectures inspired by the human brain to develop efficient, scalable, and intelligent computing systems.
+  We are exploring innovative architectures inspired by the human brain to develop efficient, scalable, and intelligent computing systems.
 
 - **3D-IC (Three-Dimensional Integrated Circuits)**  
-Our work in 3D-IC focuses on the next generation of microelectronics, pushing the boundaries of performance, energy efficiency, and integration density.
+  Our work in 3D-IC focuses on the next generation of microelectronics, pushing the boundaries of performance, energy efficiency, and integration density.
 
 ### Recognition & Impact
   Our research is recognized at the highest level, with publications in top-tier journals such as **IEEE Transactions**.  
