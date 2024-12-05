@@ -1,15 +1,15 @@
----
-hide:
-- navigation
----
 
-# Mentoring
+
+# Case Study: Mentoring
 
 !!! success "About the projects" 
         I am pleased to have had the opportunity to work with several talented students. The projects listed below were created by these students, with my role being that of a guide.
 
 
 ## Class Project
+
+!!! tip ""
+    This class follows the "project-based learning" principle by letting the students explore and design their own idea.
 
 ### Course: Real-time Gaming Systems
 This project involves designing a simple game on a Xilinx Artix-7 (AC701) board using dual-core MicroBlaze processors, where one core controls HDMI output, and the other manages and renders the game. The game logic is implemented with FreeRTOS.

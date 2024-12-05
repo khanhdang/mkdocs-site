@@ -88,11 +88,17 @@ nav:
   - 'Patent': patent.md
   - 'Publication': pub.md
   - 'Teaching': teaching.md
-  - 'Group member': grp_mem.md
-  - 'Mentoring': mentor.md
   - 'Service': service.md
   - 'Open-source': open.md
   - 'Resource': resource.md
+  - 'Group member': grp_mem.md
+  - '📍 Join Us': 
+      - 'How to join': joinus.md
+      - 'Scholarship': scholarship.md
+      - 'TA/RA/Part-time': tara.md
+      - 'How we work': howwework.md
+      - 'What you learn': whatyoulearn.md
+      - 'Case Study': mentor.md
   - 'Lab Website': https://web-ext.u-aizu.ac.jp/misc/neuro-eng/
   - 'Contact': contact.md
 

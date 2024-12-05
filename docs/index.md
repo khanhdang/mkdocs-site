@@ -18,7 +18,7 @@ I am currently an **Associate Professor** in the Division of Computer Engineerin
 
 
 !!! success "Prospective Students"
-        Research opportunities in VLSI design, carbon-efficient computing, and neuromorphic computing are available for GT undergraduate and graduate students. Interested candidates are encouraged to email their **resume**, **transcript**, and a **brief statement** explaining their interest in joining our group[^1]. 
+        Research opportunities in VLSI design, carbon-efficient computing, and neuromorphic computing are available for GT undergraduate and graduate students. Interested candidates are encouraged to email their **resume**, **transcript**, and a **brief statement** explaining their interest in joining our group[^1]. Please check [this page](joinus.md) to know more.
 
 [^1]: Due to the high volume of emails, I may not respond if your research interests do not align closely with mine or if the required documents are not attached.
 
