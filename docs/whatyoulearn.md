@@ -1,9 +1,13 @@
 # What You Can Learn in Our "Family"
 
 !!! tip "Message to you"
-    At our lab, we firmly believe that **students are the best products we can contribute to the world**. Our mission is to equip students with the skills, knowledge, and mindset needed to excel not only in academia but also in life. Here are the key things students can learn in our lab:
+    - At our lab, we firmly believe that **students are the best products we can contribute to the world**. Our mission is to equip students with the skills, knowledge, and mindset needed to excel not only in academia but also in life. 
+    - Please don't miss our [Moments: A Visual Journey of Our Team](moment/index.md) to learn about our achievements.
+
 
 ---
+
+Here are the key things students can learn in our lab:
 
 ## 1. **Exploration and Innovation**
 
