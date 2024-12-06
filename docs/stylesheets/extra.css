@@ -73,6 +73,10 @@
 
 }
 
+[data-md-color-scheme="slate"] {
+    /* --md-default-fg-color: hsla(var(--md-hue), 15%, 90%, 1); */
+    --md-default-bg-color: hsla(var(--md-hue), 0%, 11%, 1);
+}
 
 /* dark-mode for iframe (google map) */
 
