@@ -7,6 +7,7 @@ tags:
   - Publication
   - Neuromorphic
   - Hardware
+  - Farewell
 ---
 # Celebrating Nguyen Ngo Doanh's Graduation
 
