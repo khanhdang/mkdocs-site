@@ -69,7 +69,9 @@ We are deeply committed to contributing to the **local community** by addressing
     - If you have an idea or a project that could benefit the local community, please propose it.  
     - We are eager to listen, collaborate, and explore ways to make a meaningful impact.
 
-Together, we aim to bridge the gap between cutting-edge research and practical solutions that improve lives locally. By closely following this motto「地域から世界へ」, we strongly beleive by solving the local community issue, we further advance our research to globe scale.
+Together, we aim to bridge the gap between cutting-edge research and practical solutions that improve lives locally. By closely following this motto「地域から世界へ」[^1], we strongly beleive by solving the local community issue, we further advance our research to globe scale.
+
+[^1]: "From the Local to the Global". Please check our university website at [https://u-aizu.ac.jp/curriculum/policy/admission/](https://u-aizu.ac.jp/curriculum/policy/admission/).
 
 ---
 

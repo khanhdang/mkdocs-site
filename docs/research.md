@@ -9,17 +9,27 @@ hide:
 
 ### Carbon-efficient Computing
 
-Our carbon-efficient computing aims to designing and operating computing systems to minimize their carbon footprint, aiming for greater energy efficiency and reduced environmental impact. The following are some directions:
+Computers, data centers, and devices use a lot of energy, often from fossil fuels, which release carbon and cause climate change. By making computing carbon neutral/efficient, we can:
+
+- Protect the Environment by cutting carbon emissions.
+- Save Energy and reduce costs.
+- Support Global Climate Goals to fight climate change.
+- Encourage New Green Technologies for a cleaner future.
+- It’s an important step to make technology more sustainable and better for the planet.
+
+Our carbon-efficient computing aims to designing and operating computing systems to minimize their carbon footprint, aiming for greater energy efficiency and reduced environmental impact. 
+The following are some directions:
 
 
 #### Undervolted/Near-Threshold Computing
-Reducing operating voltage to near-threshold levels significantly decreases power consumption, contributing to energy efficiency and lower carbon emissions. However, this approach increases vulnerability to noise and potential errors. Our research focuses on understanding the effects of undervolting on chip performance and developing robust strategies to mitigate noise, ensuring reliable operation while maintaining the benefits of reduced energy use.
+Reducing the operating voltage to near-threshold levels greatly improves carbon efficiency by lowering power consumption, which directly reduces carbon emissions. However, this also increases the risk of noise and errors, affecting system reliability. Our research focuses on exploring the impact of undervolting on chip performance and developing robust strategies to manage noise and errors, ensuring reliable operation while maximizing energy savings and ==reducing the carbon footprint of computing systems==.
+
 
 #### Approximate Computing
-To minimize power consumption and area costs, we utilize approximate circuits that prioritize efficiency by delivering "good enough" results instead of precise calculations. This trade-off reduces energy use and chip size, which in turn lowers the carbon emissions associated with manufacturing and operating these devices. By focusing on efficient computation, we aim to contribute to a more sustainable and environmentally friendly technology landscape.
+To minimize power consumption and area costs, we utilize approximate circuits that prioritize efficiency by delivering "good enough" results instead of precise calculations. This trade-off reduces energy use and chip size, which in turn lowers the carbon emissions associated with manufacturing and operating these devices. By focusing on efficient computation, we aim to contribute to a more ==sustainable and environmentally friendly technology landscape==.
 
 #### Fault-Tolerant Computing
-Devices can experience permanent defects over time, affecting performance accuracy. Additionally, transient faults, caused by alpha particles or noise, can lead to incorrect results. We research methods to predict and tolerate these potential faults. By enhancing fault tolerance, we aim to extend the operational lifetime of these devices, reducing the frequency of replacements and the need for new semiconductor production. This reduction directly contributes to lowering carbon emissions associated with manufacturing, supporting more sustainable and carbon-efficient computing practices.
+Devices can experience permanent defects over time, affecting performance accuracy. Additionally, transient faults, caused by alpha particles or noise, can lead to incorrect results. We research methods to predict and tolerate these potential faults. By enhancing fault tolerance, we aim to extend the operational lifetime of these devices, reducing the frequency of replacements and the need for new semiconductor production. This reduction directly contributes to lowering carbon emissions associated with manufacturing, supporting more ==sustainable and carbon-efficient computing practices==.
 
 
 ### Three-Dimensional (3D) Integrated Circuits

@@ -2,7 +2,7 @@
 
 # Financial Support for Students
 
-!!! tip "Our message"
+!!! tip "Message to you"
     - We wholeheartedly support students who face financial difficulties and are willing to work hard to contribute to our lab and advance their academic journey. 
     - Please discuss about this topic as soon as you want to join us.
     - Think it as an investment: completing your journey here opens many more opportunites (jobs, further studies, etc...).
@@ -87,9 +87,9 @@ With perseverance and consistent effort, he not only managed his finances but al
 One of our former master’s students (Mr. NGUYEN Ngo Doanh) completed his degree as a self-financed student by securing multiple TA/RA roles.  
 
 - **Achievements:**  
-    - Published **4 research papers** in reputable journals. Two of them are **IEEE Transactions** papers which are considered to be top-level in our field. 
-    - Received **Award of Excellence for AY 2023**.
-    - Awarded a **full scholarship** to pursue a Ph.D. at a prestigious European university.  
+    - Published **4 research papers** in reputable journals. Two of them are ==**IEEE Transactions** papers which are considered to be top-level in our field==. 
+    - Received ==**Award of Excellence for AY 2023**==.
+    - Awarded a ==**full scholarship** to pursue a Ph.D. at a prestigious European university==.  
 
 These stories highlight the opportunities available for motivated students who are willing to work hard and make the most of available support.
 

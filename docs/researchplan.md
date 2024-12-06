@@ -2,7 +2,7 @@
 
 !!! tip "Message to you"
     - Writing a research plan is difficult, please ask for sample if you dont know how to write.
-    - Your work must align with our institution’s mission and goals such as: 「地域から世界へ」[^1] and 「to Advance Knowledge for Humanity」. Please read the Japanese version here [https://u-aizu.ac.jp/curriculum/policy/admission/](https://u-aizu.ac.jp/curriculum/policy/admission/)
+    - Your work must align with our institution’s philosophies: 「地域から世界へ」[^1] and 「to Advance Knowledge for Humanity」. Please read the Japanese version here to know more about our mission and goals: [https://u-aizu.ac.jp/curriculum/policy/admission/](https://u-aizu.ac.jp/curriculum/policy/admission/)
 
 [^1]: "From the Local to the Global"
 
@@ -33,8 +33,8 @@ Provide a short review of the research already done in your area:
 - Mention how your research could help solve a local or global problem.
 
 ## 4. Describe Your Research Plan
-
 Explain how you will carry out your research. Include:  
+
 - The methods or experiments you will use.  
 - The tools or resources you need.  
 - ==**Illustrations or diagrams**== of your plan, especially if it is difficult to explain in words.  
