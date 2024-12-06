@@ -111,7 +111,7 @@ Below are some useful journals and conferences along with their submission deadl
 
 ### How to Write Research Papers and Dissertations
 
-- [*Writing a Technical Paper*](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html) by Professor Michael Ernst
+- [*Writing a Technical Paper*](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html)  by Professor Michael Ernst
 - [*How to Write a Dissertation*](https://www.cs.tufts.edu/~nr/students/dec/essay.dissertation.html) by Professor Douglas Comer
 
 
