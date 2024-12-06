@@ -1,5 +1,3 @@
-
-
 # Financial Support for Students
 
 !!! tip "Message to you"

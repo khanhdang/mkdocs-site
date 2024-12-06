@@ -99,6 +99,8 @@ nav:
       - 'How we work': howwework.md
       - 'What you learn': whatyoulearn.md
       - 'Case Study': mentor.md
+  # - '📸 Moment':
+  #   - moment/index.md
   - 'Lab Website': https://web-ext.u-aizu.ac.jp/misc/neuro-eng/
   - 'Contact': contact.md
 
@@ -108,7 +110,25 @@ plugins:
   - encryptcontent: 
         title_prefix: ''
         summary: '㊙️ This page is encrypted. '
-        
+  - blog:
+      blog_dir: moment
+      authors: false
+      blog_toc: true
+      archive_name: Archive      
+      archive_date_format: MMMM yyyy
+      archive_url_date_format: yyyy/MM
+      archive_url_format: "archive/{date}"
+      archive_toc: true
+      categories_toc: true
+      categories_name: Categories
+      categories_allowed:
+        - Conference
+      pagination_per_page: 5
+      archive_pagination_per_page: 10
+      categories_pagination_per_page: 10
+  - tags:
+      tags_file: moment/tags.md
+
 extra:
   generator: false
   # social:
