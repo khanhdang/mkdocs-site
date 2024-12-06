@@ -27,7 +27,10 @@
     }
 }
 
-
+video {
+    display: block;
+    margin: 0 auto;
+}
 
 /* remove top bar shadow */
 
