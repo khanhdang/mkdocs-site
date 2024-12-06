@@ -11,6 +11,7 @@ tags:
 # Celebrating Nguyen Ngo Doanh's Graduation
 
 We are proud to recognize Nguyen Ngo Doanh for his outstanding achievements as a graduate of AY 2023. As the first master's student in his group, Doanh has set a high standard for academic excellence and innovation.
+<!-- more -->
 
 He has been awarded the Award of Excellence, a well-deserved honor for his exceptional dedication. Notably, Doanh completed his degree 1.5 years ahead of schedule. His research contributions include four journal publications in IEEE TCMPT, IEEE TVLSI, and ACCESS, a paper presented at the MCSoC conference, and a Japanese patent application—showing his commitment to pushing boundaries in his field.
 
