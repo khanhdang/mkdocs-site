@@ -9,7 +9,9 @@ hide:
   - toc
 ---
 
-’m happy to share that I’ve returned to the University of Aizu as an Associate Professor. Having been part of this community before, it’s nice to come back and take on a new role.
+# New Chapter: Returning to the University of Aizu
+
+I’m happy to share that I’ve returned to the University of Aizu as an Associate Professor. Having been part of this community before, it’s nice to come back and take on a new role.
 
 This is not just a new chapter for me but also for my family. I’m especially thankful to my wife for her support and encouragement throughout this journey. We’re both looking forward to settling in and exploring what lies ahead.
 
