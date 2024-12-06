@@ -8,6 +8,8 @@ tags:
   - Neuromorphic
   - Hardware
   - Farewell
+hide:
+  - toc
 ---
 # Celebrating Nguyen Ngo Doanh's Graduation
 
