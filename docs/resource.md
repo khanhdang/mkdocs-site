@@ -14,6 +14,13 @@ hide:
 - Campus Map: [https://web-int.u-aizu.ac.jp/labs/istc/ipc/service/map/map-e.html](https://web-int.u-aizu.ac.jp/labs/istc/ipc/service/map/map-e.html)
 - Class Mailing List: [https://web-int.u-aizu.ac.jp/official/students/sad/ML/Index/mlindex_e.html](https://web-int.u-aizu.ac.jp/official/students/sad/ML/Index/mlindex_e.html)
 - Turnitin (iThenticate): [https://cl-innov.turnitin.com/home/](https://cl-innov.turnitin.com/home/)
+- TA/RA System (from Nov. 2024): [https://u-aizu.ac.jp/en/curriculum/internal/folder2126/
+](https://u-aizu.ac.jp/en/curriculum/internal/folder2126/
+)
+- Room reservation: [https://web-int.u-aizu.ac.jp/official/students/sad/stsa43.html](https://web-int.u-aizu.ac.jp/official/students/sad/stsa43.html)
+- Adaptive System Lab (abolished from 2023): [https://adaptive.u-aizu.ac.jp/aslint/](https://adaptive.u-aizu.ac.jp/aslint/)
+- Guidance for International Students: [https://u-aizu.ac.jp/en/curriculum/internal/international/](https://u-aizu.ac.jp/en/curriculum/internal/international/)
+    - MEXT scholarship: [https://u-aizu.ac.jp/en/curriculum/internal/international/#mext](https://u-aizu.ac.jp/en/curriculum/internal/international/#mext)
 
 ## Academic reading/writing/presenting
 
@@ -118,7 +125,7 @@ Below are some useful journals and conferences along with their submission deadl
 
 # Poster presentations
 - [*Ten Simple Rules for a Good Poster Presentation*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030102)  by Thomas C Erren and Philip E Bourne
-- [*Do's and Don'ts of Poster Presentation*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1233841/pdf/biophysj00042-0617.pdf)by Steven M. Block
+- [*Do's and Don'ts of Poster Presentation*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1233841/pdf/biophysj00042-0617.pdf) by Steven M. Block
 
 ### Similar lists on academic reading/writing/presenting
 
