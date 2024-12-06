@@ -1,3 +1,7 @@
+---
+hide:
+    - toc
+---
 # Moments: A Visual Journey Of Our Team 
 
 !!! info ""
