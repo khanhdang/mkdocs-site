@@ -5,6 +5,8 @@ categories:
 tags:
   - Journey
   - University of Aizu
+hide:
+  - toc
 ---
 
 # New Chapter: Returning to the University of Aizu
