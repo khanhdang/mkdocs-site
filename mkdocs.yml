@@ -113,7 +113,7 @@ plugins:
   - blog:
       blog_dir: moment
       authors: false
-      blog_toc: false
+      # blog_toc: true
       archive_name: Archive      
       archive_date_format: MMMM yyyy
       archive_url_date_format: yyyy/MM
