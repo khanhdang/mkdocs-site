@@ -9,21 +9,17 @@ hide:
   - toc
 ---
 
-# New Chapter: Returning to the University of Aizu
+’m happy to share that I’ve returned to the University of Aizu as an Associate Professor. Having been part of this community before, it’s nice to come back and take on a new role.
 
-I’m happy to share that I’ve returned to the University of Aizu as an Associate Professor. Having been part of this community before, it’s exciting to come back and contribute in a new role.
+This is not just a new chapter for me but also for my family. I’m especially thankful to my wife for her support and encouragement throughout this journey. We’re both looking forward to settling in and exploring what lies ahead.
 
-<!-- more -->
+The University of Aizu has always been a place I’ve admired for its focus on innovation and collaboration. I’m excited to start teaching, mentoring, and continuing research that I hope will make a difference. I’m also looking forward to reuniting with the Adaptive Systems Laboratory, where I had many valuable experiences in the past and where I hope to contribute further in the future.
 
-The University of Aizu has always been a place of innovation and collaboration, and I’m looking forward to teaching, mentoring students, and continuing research in areas that can make a meaningful impact.
+At the same time, I want to express my gratitude to the VNU University of Engineering and Technology, where I had the chance to grow both personally and professionally. A special thank you goes to the Key Laboratory of Smart Integrated Systems (SISLAB). My time at SISLAB was filled with rewarding collaborations, meaningful projects, and friendships that I will always value. I’ll carry the lessons and memories from SISLAB with me as I move forward.
 
-It’s great to be back among familiar faces and to work alongside talented colleagues and motivated students. I’m excited to see where this next chapter leads.
+As part of getting settled, I took a moment to visit Tsuruga-jo. It’s a beautiful spot that reflects the history and culture of the region, and it felt like the right place to pause and reflect on this new beginning.
 
-As I prepare to begin my new role at the University of Aizu, it’s also time to say goodbye to VNU-UET. My time here has been incredibly rewarding, filled with opportunities to teach, collaborate, and grow both personally and professionally.
-
-While settling back into Aizu, I took a moment to visit Tsuruga-jo, a place that beautifully reflects the history and spirit of the region. Though it’s not part of the university, it felt like the perfect spot to reconnect with the surroundings and reflect on this new chapter.
-
-
-Here’s a ==moment== from Tsuru-ga-jō (鶴ヶ城):
-
-![Insert photo here](imgs/2022/04/Tsrugajo_Sakura.jpg)
+!!! quote ""
+    Here’s a moment from Tsuruga-jo (鶴ヶ城):
+    
+    ![Insert photo here](imgs/2022/04/Tsrugajo_Sakura.jpg)
