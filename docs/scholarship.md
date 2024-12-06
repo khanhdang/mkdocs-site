@@ -12,12 +12,12 @@ The **MEXT (Monbukagakusho) Scholarship** is a prestigious scholarship offered b
 !!! warning "Notice"
      Please do not email me about the MEXT scholarship if:
 
-     - Your GPA is below 3.2/4.0
-     - You do not have an English or Japanese proficiency certificate
-     - You do not have a publication in an ACM/IEEE conference or a Scopus-indexed journal
+     - Your GPA is below 3.1/4.0 or 2.3/3.0.
+     - You do not have an English or Japanese proficiency certificate.
+     - You do not have a publication in an ACM/IEEE conference or a Scopus-indexed journal.
      - Your research interests do not align with mine
      - You are unsure about pursuing a Ph.D.
-     - You are unsure about your commitment to joining if awarded the scholarship
+     - You are unsure about your commitment to joining if awarded the scholarship.
      
      Due to the high volume of emails, I will not be able to reply to inquiries that do not meet the requirements.
 
