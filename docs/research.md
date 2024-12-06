@@ -9,16 +9,10 @@ hide:
 
 ### Carbon-efficient Computing
 
-Computers, data centers, and devices use a lot of energy, often from fossil fuels, which release carbon and cause climate change. By making computing carbon neutral/efficient, we can:
-
-- Protect the Environment by cutting carbon emissions.
-- Save Energy and reduce costs.
-- Support Global Climate Goals to fight climate change.
-- Encourage New Green Technologies for a cleaner future.
-- It’s an important step to make technology more sustainable and better for the planet.
+Computers, data centers, and devices use a lot of energy, often from fossil fuels, which release carbon and cause climate change. By making computing carbon neutral/efficient, we can protect the environment by cutting carbon emissions.
 
 Our carbon-efficient computing aims to designing and operating computing systems to minimize their carbon footprint, aiming for greater energy efficiency and reduced environmental impact. 
-The following are some directions:
+The following are our directions:
 
 
 #### Undervolted/Near-Threshold Computing
