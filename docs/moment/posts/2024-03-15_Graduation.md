@@ -21,7 +21,7 @@ He has been awarded the Award of Excellence, a well-deserved honor for his excep
 !!! quote ""
     Here is his ==moment== from the graduation ceremony:
 
-    <video width="100%" controls>
+    <video width="400px" controls>
       <source src="https://u-aizu.ac.jp/~khanh/moment/videos/2024/GRADUATION_2023.MOV" type="video/mp4">
     </video>
 
