@@ -88,7 +88,10 @@
     /* --md-default-fg-color: hsla(var(--md-hue), 15%, 90%, 1); */
     --md-default-bg-color: hsla(var(--md-hue), 0%, 7%, 0);
 }
-
+[data-md-color-primary=black] .md-header {
+    background-color:  hsla(var(--md-hue), 0%, 7%, 0);
+}
+    
 /* dark-mode for iframe (google map) */
 
 [data-md-color-scheme="default"] iframe[src$="#only-dark"],
