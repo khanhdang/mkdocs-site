@@ -78,7 +78,7 @@ video {
 
 /* link colour in dark (slate) */
 [data-md-color-scheme=slate][data-md-color-primary=black] {
-    --md-typeset-a-color: #e7b558;
+    --md-typeset-a-color: #e8b391;
 
 }
 
