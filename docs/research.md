@@ -11,7 +11,7 @@ hide:
 
 Computers, data centers, and devices use a lot of energy, often from fossil fuels, which release carbon and cause climate change. By making computing carbon neutral/efficient, we can protect the environment by cutting carbon emissions.
 
-Our carbon-efficient computing aims to designing and operating computing systems to minimize their carbon footprint, aiming for greater energy efficiency and reduced environmental impact. 
+Our carbon-efficient computing aims to designing and operating computing systems to minimize their carbon footprint, aiming for greater energy efficiency and reduced environmental impact. Our dream is not just carbon-effiency but the true ==carbon neutrality== in computing.
 The following are our directions:
 
 
