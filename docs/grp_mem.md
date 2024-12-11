@@ -23,15 +23,15 @@ hide:
 
 ## Exchange Student/Internship
 
-- 2024: Mahdi Mnif (Ph.D. student from TU Chemnitz, Germany)
+- 2024: [Mahdi Mnif](https://scholar.google.com/citations?user=lUbonSUAAAAJ) (Ph.D. student from TU Chemnitz, Germany)
   
 ## Alumni
 
 ### M.Sc. Degree
-- 2024:  [NGUYEN Ngo Doanh](https://scholar.google.com.vn/citations?user=1ny8zogAAAAJ&hl=en) (Award of Excellence for AY 2023 graduates; early graduation (1.5 years); Publication: 4 journals (1 TCMPT, 1 TVLSI, 2 ACCESS), 1 conference  (MCSoC), 1 Japanese patent application)
+- 2022-2024:  [NGUYEN Ngo Doanh](https://scholar.google.com.vn/citations?user=1ny8zogAAAAJ),  The University of Aizu. (Award of Excellence for AY 2023 graduates; early graduation (1.5 years); Publication: 4 journals (1 TCMPT, 1 TVLSI, 2 ACCESS), 1 conference  (MCSoC), 1 Japanese patent application)
   
 ### B.Sc. Degree
-- 2022, NGUYEN Van Tung, Undergraduate, VNU/UET.
+- 2021-2022, NGUYEN Van Tung, Vietnam National University, Hanoi.
 
 
 

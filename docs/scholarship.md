@@ -14,7 +14,7 @@ The **MEXT (Monbukagakusho) Scholarship** is a prestigious scholarship offered b
 
      - Your GPA is below 3.1/4.0 or 2.3/3.0.
      - You do not have an English or Japanese proficiency certificate. 
-     - You do not have a publication in an ACM/IEEE conference or a Scopus-indexed (Q1 or Q2) journal.
+     - You do not have a publication in an ACM/IEEE conference (for Master candidate) or a Scopus-indexed (Q1 or Q2) journal (for Ph.D. candidate) .
      - Your research interests do not align with mine. My main research is computer hardware and I will not accept any MEXT candidate in software.
      - You are unsure about pursuing a Ph.D (for Master candidate).
      - You are unsure about your commitment to joining if awarded the scholarship.

@@ -27,7 +27,10 @@ Email to me with the following:
     - Logic Circuit Design
 - A brief statement of research interests
 
-You can find my email at [this page](contact.md). If you don't know how to write a proper email, please use [this template](https://gist.github.com/khanhdang/04e61a9d2dd26bf22e4031e5d194f4b5).
+You can find my email at [this page](contact.md). 
+
+!!! warning "Email template"
+    If you don't know how to write a proper email, please use [this template](https://gist.github.com/khanhdang/04e61a9d2dd26bf22e4031e5d194f4b5).
 
 ### Preliminary Meeting
 
