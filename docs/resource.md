@@ -26,7 +26,9 @@ hide:
 
 ### Journal & Conference List
 
-Below are some useful journals and conferences along with their submission deadlines and event timings.
+!!! tips ""
+    - Below are some useful journals and conferences along with their submission deadlines and event timings.
+    - The lists are specified for the computer hardware/computer architecture field.
 
 
 #### Conferences (Alphabetical Order)

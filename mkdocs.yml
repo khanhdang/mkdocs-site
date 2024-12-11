@@ -154,4 +154,4 @@ extra_javascript:
 
 extra_css:
   - stylesheets/extra.css
-copyright: Copyright &copy; 2016 -  Khanh N. Dang. All rights are reserved unless under certain specific statements. 
+copyright: Copyright &copy; 2016 -  Khanh N. Dang. All rights are reserved unless under certain specific statements. <br>Starting November 2024, this website will default to dark mode to reduce power consumption on OLED and AMOLED screens, aligning with our commitment to sustainability and carbon neutrality.

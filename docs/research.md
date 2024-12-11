@@ -5,6 +5,10 @@ hide:
 
 # Research
 
+
+!!! info ""
+    I am open to research collaborations. Please feel free to  [contact me](contact.md) if you are interested.
+
 ## Research Topics
 
 ### Carbon-efficient Computing

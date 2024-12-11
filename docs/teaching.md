@@ -24,7 +24,7 @@ hide:
 - SE08: **Introduction of Data Mining[^1]** (Ex.), University of Aizu, *Undergraduate*.
 - FU03: **Discrete Systems** (Lec./Ex.), University of Aizu, *Undergraduate*.
 - INT2212: **Computer Architecture**, Vietnam National University, Hanoi, *Undergraduate*.
-- ELT3071: **Real-time Embedded Systems**, Vietnam National University, Hanoi, *Undergraduate*.
+- ELT3071: **Real-time Embedded Systems**, Vietnam National University, Hanoi, *Undergraduate*. \[[Project Demo](mentor.md/#course-real-time-gaming-systems)\]
 - INT3409: **Robotics Programming**, Vietnam National University, Hanoi, *Undergraduate*.
 - ELT2401: **Digital Electronics**, Vietnam National University, Hanoi, *Undergraduate*.
 
@@ -33,8 +33,7 @@ hide:
 - SYC04: **Advanced Computer Organization**, University of Aizu, *Postgraduate*, 2019.
 - SYC04: **Advanced Computer Organization**, University of Aizu, *Postgraduate*, 2021.
 
-## Mentoring
-
-Visit [this page](mentor.md) for projects that were done by the students under my supervision in the past.
+!!! success  "Mentoring"
+    Visit [this page](mentor.md) for projects that were done by the students under my supervision in the past.
 
 [^1]: The course is renamed to **Introduction of Big Data Analytics**
