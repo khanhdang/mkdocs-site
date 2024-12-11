@@ -91,7 +91,7 @@ nav:
   - 'HW/SW': open.md
   - 'Resource': resource.md
   - 'Group member': grp_mem.md
-  - '📍 Join Us': 
+  - '📌 Join Us': 
       - 'How to join': joinus.md
       - 'Scholarship': scholarship.md
       - 'TA/RA/Part-time': tara.md
@@ -99,7 +99,7 @@ nav:
       - 'How we work': howwework.md
       - 'What you learn': whatyoulearn.md
       - 'Case Study': mentor.md
-  - '📸 Moment':
+  - '🖼️ Moment':
     - moment/index.md
   - 'Lab Website': https://web-ext.u-aizu.ac.jp/misc/neuro-eng/
   - 'Contact': contact.md
