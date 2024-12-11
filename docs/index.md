@@ -9,7 +9,7 @@ hide:
 ![Image title](./assets/images/Khanh_N_DANG.jpg){class="avatar"}
 
 Hello! My name is Khanh N. DANG (1).
-I am currently an **Associate Professor** in the Division of Computer Engineering, Department of Computer Science and Engineering, [The University of Aizu](https://www.u-aizu.ac.jp/en/). I earned my Ph.D. from [The University of Aizu](https://www.u-aizu.ac.jp/en/) and my M.Sc. from [Paris XI University](https://en.wikipedia.org/wiki/Paris-Sud_University) (now [Paris-Saclay University](https://www.universite-paris-saclay.fr/en)). Prior to joining the University of Aizu, I worked at [Vietnam National University, Hanoi](https://vnu.edu.vn/eng/) and [Dolphin Technology, Inc.](https://www.dolphin-ic.com/).
+I am currently an **Associate Professor** in the Division of Computer Engineering, Department of Computer Science and Engineering, [The University of Aizu](https://www.u-aizu.ac.jp/en/). I earned my Ph.D. from [The University of Aizu](https://www.u-aizu.ac.jp/en/) and my M.Sc. from [Paris XI University](https://en.wikipedia.org/wiki/Paris-Sud_University) (now [Paris-Saclay University](https://www.universite-paris-saclay.fr/en)). Prior to joining the University of Aizu, I worked at [Dolphin Technology, Inc.](https://www.dolphin-ic.com/) and  [Vietnam National University, Hanoi](https://vnu.edu.vn/eng/).
 { .annotate }
 
 1.  In Vietnamese: Đặng Nam Khánh<br>In Japanese: ダン ナム カイン<br>In Chinese: 鄧南慶
