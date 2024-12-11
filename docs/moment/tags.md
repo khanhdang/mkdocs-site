@@ -1,1 +1,8 @@
-Conference, Journal, Book, Poster, Publication, Neuromorphic, Hardware, Software, Carbon, Graduation
+---
+hide:
+    # - toc
+    - navigation
+---
+
+!!! tip ""
+    Back to [🖼️ Moment](index.md).

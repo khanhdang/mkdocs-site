@@ -87,8 +87,8 @@ Below are some useful journals and conferences along with their submission deadl
     - Matplotlib (plot): [https://matplotlib.org/](https://matplotlib.org/)
     - Altair (plot): [https://altair-viz.github.io/](https://altair-viz.github.io/)
 - Reference management:
-    - JabRef: [https://www.jabref.org/]
-    - Zotero: [https://www.zotero.org/start]
+    - JabRef: [https://www.jabref.org/](https://www.jabref.org/)
+    - Zotero: [https://www.zotero.org/start](https://www.zotero.org/start)
 - Paper summarization (quick but not sure if it is accurate):
     - Google scholar PDF Reader: [https://scholar.googleblog.com/2024/11/ai-outlines-in-scholar-pdf-reader-skim.html](https://scholar.googleblog.com/2024/11/ai-outlines-in-scholar-pdf-reader-skim.html)
 - Grammar Check (apps and plugins are available):
@@ -97,35 +97,35 @@ Below are some useful journals and conferences along with their submission deadl
 
 ### How to Read Research Papers
 
-- [*How to Read a Research Paper*](http://www.cc.gatech.edu/fac/Spencer.Rugaber/txt/research_paper.txt) by Spencer Rugaber
-- [*Thoughts on Reading Research Papers*](http://cs.gmu.edu/~offutt/classes/phd/Hints-Read.html) by Jeff Offutt
-- [*How to Read a Research Paper*](http://www.imsc.res.in/~meena/mitzenmacher-ReadPaper.pdf) by Michael Mitzenmacher
-- [*Infographic: How to Read a Scientific Paper*](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper) by Natalia Rodriguez
-- [*How to Read an Engineering Research Paper*](https://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html) by William G. Griswold
-- [*How to Read a Paper*](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) by S. Keshav
-- [*How to Read a Research Paper*](http://webpages.uncc.edu/tbarnes2/SeriousGames/papers/ReadingResearchPaper.pdf) by Tiffany Barnes
-- [*Reading Scientific Papers*](http://web.stanford.edu/~siegelr/readingsci.htm) by Robert Siegel
-- [*How to Read a Scientific Article*](http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf) by Mary Purugganan and Jan Hewitt
-- [*How to Read a Book*](http://pne.people.si.umich.edu/PDF/howtoread.pdf) by Paul N. Edwards
+- [How to Read a Research Paper](http://www.cc.gatech.edu/fac/Spencer.Rugaber/txt/research_paper.txt) by Spencer Rugaber
+- [Thoughts on Reading Research Papers](http://cs.gmu.edu/~offutt/classes/phd/Hints-Read.html) by Jeff Offutt
+- [How to Read a Research Paper](http://www.imsc.res.in/~meena/mitzenmacher-ReadPaper.pdf) by Michael Mitzenmacher
+- [Infographic: How to Read a Scientific Paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper) by Natalia Rodriguez
+- [How to Read an Engineering Research Paper](https://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html) by William G. Griswold
+- [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) by S. Keshav
+- [How to Read a Research Paper](http://webpages.uncc.edu/tbarnes2/SeriousGames/papers/ReadingResearchPaper.pdf) by Tiffany Barnes
+- [Reading Scientific Papers](http://web.stanford.edu/~siegelr/readingsci.htm) by Robert Siegel
+- [How to Read a Scientific Article](http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf) by Mary Purugganan and Jan Hewitt
+- [How to Read a Book](http://pne.people.si.umich.edu/PDF/howtoread.pdf) by Paul N. Edwards
 
 
 ### How to Write Research Papers and Dissertations
 
-- [*Writing a Technical Paper*](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html)  by Professor Michael Ernst
-- [*How to Write a Dissertation*](https://www.cs.tufts.edu/~nr/students/dec/essay.dissertation.html) by Professor Douglas Comer
+- [Writing a Technical Paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html)  by Professor Michael Ernst
+- [How to Write a Dissertation](https://www.cs.tufts.edu/~nr/students/dec/essay.dissertation.html) by Professor Douglas Comer
 
 
 ### How to Give Presentations
 
-- [*Giving a Technical Presentation*](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) by Professor Michael Ernst
-- [*Tips for a Good Conference Talk*](https://cs.stanford.edu/people/widom/conference-talks.html) by Professor Jennifer Widom
+- [Giving a Technical Presentation](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) by Professor Michael Ernst
+- [Tips for a Good Conference Talk](https://cs.stanford.edu/people/widom/conference-talks.html) by Professor Jennifer Widom
 
 
 ### How to Make Posters
 
 # Poster presentations
-- [*Ten Simple Rules for a Good Poster Presentation*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030102)  by Thomas C Erren and Philip E Bourne
-- [*Do's and Don'ts of Poster Presentation*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1233841/pdf/biophysj00042-0617.pdf) by Steven M. Block
+- [Ten Simple Rules for a Good Poster Presentation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030102)  by Thomas C Erren and Philip E Bourne
+- [Do's and Don'ts of Poster Presentation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1233841/pdf/biophysj00042-0617.pdf) by Steven M. Block
 
 ### Similar lists on academic reading/writing/presenting
 
