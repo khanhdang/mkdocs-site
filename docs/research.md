@@ -11,7 +11,7 @@ hide:
 
 ## Research Topics
 
-### Carbon-efficient Computing
+### Carbon-efficient & Sustainable Computing
 
 Computers, data centers, and devices use a lot of energy, often from fossil fuels, which release carbon and cause climate change. By making computing carbon neutral/efficient, we can protect the environment by cutting carbon emissions.
 
@@ -26,21 +26,15 @@ Reducing the operating voltage to near-threshold levels greatly improves carbon 
 #### Approximate Computing
 To minimize power consumption and area costs, we utilize approximate circuits that prioritize efficiency by delivering "good enough" results instead of precise calculations. This trade-off reduces energy use and chip size, which in turn lowers the carbon emissions associated with manufacturing and operating these devices. By focusing on efficient computation, we aim to contribute to a more ==sustainable and environmentally friendly technology landscape==.
 
-#### Fault-Tolerant Computing
-Devices can experience permanent defects over time, affecting performance accuracy. Additionally, transient faults, caused by alpha particles or noise, can lead to incorrect results. We research methods to predict and tolerate these potential faults. By enhancing fault tolerance, we aim to extend the operational lifetime of these devices, reducing the frequency of replacements and the need for new semiconductor production. This reduction directly contributes to lowering carbon emissions associated with manufacturing, supporting more ==sustainable and carbon-efficient computing practices==.
+#### Sustainable Computing
+Devices can experience permanent defects over time, affecting performance accuracy.  We research methods to predict and tolerate these potential faults. By enhancing fault tolerance, we aim to extend the operational lifetime of these devices, reducing the frequency of replacements and the need for new semiconductor production. This reduction directly contributes to lowering carbon emissions associated with manufacturing, supporting more ==sustainable and carbon-efficient computing practices==.
 
 
 ### Three-Dimensional (3D) Integrated Circuits
 With Moore's Law reaching limitations in transistor scaling, one solution is to expand vertically by stacking multiple silicon layers interconnected by vias. Our focus is on designing 3D architectures, such as memory stacks (SRAM, eDRAM, etc.), and converting conventional 2D architectures to 3D.
 
-#### Power-Efficient Generative AI
-As next-generation AI models demand significant power, our research addresses this with advanced VLSI techniques like approximation, near-threshold computing, and data compression.
-
 ### Neuromorphic Computing
 Inspired by the human brain, we design neuromorphic chips featuring physical artificial neurons made of silicon. These chips perform computations that mimic biological brain functions. Our approach combines digital methods with 3D Integrated Circuits and Network-on-Chip (NoC) structures, developed in both hardware (Verilog HDL) and software (Python) models.
-
-### Machine Learning/Optimization for Computer-Aided Design
-We tackle complex Computer-Aided Design (CAD) challenges using machine learning and optimization techniques. Our goal is to create platforms capable of generating optimized designs, focusing on thermal awareness and reliability using Genetic Algorithms and Reinforcement Learning.
 
 ## Current and Previous Projects
 
