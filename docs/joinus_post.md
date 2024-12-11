@@ -21,6 +21,7 @@ Email the Principal Investigator (PI) with the following:
 - Your transcript (with English translation if necessary)
 - A brief statement of research interests
 - Any publications or relevant experience (optional)
+- Scholarship you want to apply (check [this page](scholarship.md) for details) (optional)
 
 You can find the PI's email at [this page](contact.md).
 
