@@ -30,7 +30,7 @@ I am currently an **Associate Professor** in the Division of Computer Engineerin
 
 <script>
     
-var text = [ "Welcome!", "Xin chào!", "Bonjour!", "नमस्ते!",　"你好！", "ようこそ！"];
+var text = [ "Welcome!", "Xin chào!", "Bonjour!", "नमस्ते!",　"你好！", "مرحبا بكم!", "¡Hola a todos!", "Olá a todos!", "ようこそ！"];
 var counter = 0;
 var elem = $("#greeting");
 setInterval(change, 3000);
