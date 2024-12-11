@@ -25,6 +25,6 @@ At the same time, I want to express my gratitude to the VNU University of Engine
 As part of getting settled, I took a moment to visit Tsuruga-jo. It’s a beautiful spot that reflects the history and culture of the region, and it felt like the right place to pause and reflect on this new beginning.
 
 !!! quote ""
-    Here’s a moment from Tsuruga-jo (鶴ヶ城):
+    Here’s a ==moment== from Tsuruga-jo (鶴ヶ城):
     
     ![Insert photo here](imgs/2022/04/Tsrugajo_Sakura.jpg)
