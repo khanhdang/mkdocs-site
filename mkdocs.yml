@@ -93,6 +93,8 @@ nav:
   - 'Group member': grp_mem.md
   - '📌 Join Us': 
       - 'How to join': joinus.md
+      - 'For undergraduate': joinus_under.md
+      - 'For postgraduate': joinus_post.md
       - 'Scholarship': scholarship.md
       - 'TA/RA/Part-time': tara.md
       - 'How to write research plan': researchplan.md
