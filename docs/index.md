@@ -4,7 +4,7 @@ hide:
 - toc
 ---
 
-# ようこそ！ Welcome! Xin chào! Bonjour!　नमस्ते!　你好！
+# <span id="greeting">ようこそ！</span>
 
 ![Image title](./assets/images/Khanh_N_DANG.jpg){class="avatar"}
 
@@ -16,7 +16,24 @@ I am currently an **Associate Professor** in the Division of Computer Engineerin
 
 !!! success "Prospective Students"
     Research opportunities in VLSI design, carbon-efficient computing, and neuromorphic computing are available for GT undergraduate and graduate students. 
-    Interested candidates are encouraged to check [this page](joinus.md) to know more[^1].
+    Interested candidates are encouraged to check [this page](joinus.md) to know more.
 
-[^1]: Due to the high volume of emails, I may not respond if your research interests do not align closely with mine or if the required documents are not attached.
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+<script>
+    
+var text = [ "Welcome!", "Xin chào!", "Bonjour!", "नमस्ते!",　"你好！", "ようこそ！"];
+var counter = 0;
+var elem = $("#greeting");
+setInterval(change, 4000);
+function change() {
+    elem.fadeOut(1500,function(){
+        elem.html(text[counter]);
+        counter++;
+        if(counter >= text.length) { counter = 0; }
+        elem.fadeIn(1500);
+    });
+}
+
+</script>
 
