@@ -1,6 +1,6 @@
 
 
-# Joining Our Group
+# Joining Our Group [Master/Ph.D. Candidates]
 
 !!! note "Welcome"  
     Below is a step-by-step guide to the application process, including information about key scholarship opportunities such as the MEXT Scholarship and the Rotary Scholarship.
