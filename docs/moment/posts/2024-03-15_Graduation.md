@@ -8,6 +8,7 @@ tags:
   - Neuromorphic
   - Hardware
   - Farewell
+  - Nguyen Ngo Doanh
 hide:
   - toc
 ---
