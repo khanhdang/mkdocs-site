@@ -41,8 +41,10 @@ markdown_extensions:
       alternate_style: true 
 theme: 
   name: material
-  logo: assets/logo.svg
+  logo: assets/logo_2023.svg
   favicon: assets/favicon.png
+  # custom_dir: overrides
+
   # font: false
   font:
     text: "Noto Sans JP"
@@ -154,4 +156,5 @@ extra_javascript:
 
 extra_css:
   - stylesheets/extra.css
-copyright: Copyright &copy; 2016 -  Khanh N. Dang. All rights are reserved unless under certain specific statements. This website is built using MkDocs and is updated periodically with a cron job.
+copyright: Copyright &copy; 2016 -  Khanh N. Dang. 🌱 This website will use dark mode by default to <a href="https://doi.org/10.1145/3458864.3467682">save power on OLED or AMOLED displays</a>, aligning with our commitment to sustainability and carbon neutrality.  
+

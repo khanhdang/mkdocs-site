@@ -6,7 +6,7 @@ hide:
 # Publication
 
 !!! warning "Disclaimer"
-    This page contains PDF files of articles that might be covered by copyright. Please do not retrieve, copy, or distribute these files as it may violate copyright protection laws.
+    This page contains PDF articles that may be copyrighted. Please refrain from downloading, copying, or sharing these files to avoid violating copyright laws.
 
 [^1]:    Student under my direct supervision.
 

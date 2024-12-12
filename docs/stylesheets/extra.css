@@ -57,6 +57,15 @@ video {
     color : #999999;
     background: #ffffff;
 }
+/* 
+[data-md-color-scheme=default] {
+    --md-footer-fg-color--light: #b55639;
+} */
+
+
+html .md-footer-meta.md-typeset a {
+    color: #e8b391;
+}
 
 /* for copyright  text */
 [data-md-color-primary=white]  .md-copyright__highlight {
