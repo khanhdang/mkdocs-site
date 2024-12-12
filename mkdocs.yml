@@ -41,7 +41,7 @@ markdown_extensions:
       alternate_style: true 
 theme: 
   name: material
-  logo: assets/logo_2023.svg
+  logo: assets/logo_2025.svg
   favicon: assets/favicon.png
   # custom_dir: overrides
 
