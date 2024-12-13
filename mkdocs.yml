@@ -157,5 +157,5 @@ extra_javascript:
 
 extra_css:
   - stylesheets/extra.css
-copyright: Copyright &copy; 2016 -  Khanh N. Dang. 🌱 This website will use dark mode by default to <a href="https://doi.org/10.1145/3458864.3467682">save power on OLED or AMOLED displays</a>, aligning with our commitment to sustainability and carbon neutrality.  
+copyright: Copyright &copy; 2016 -  Khanh N. Dang. 🌱 This website support dark mode to <a href="https://doi.org/10.1145/3458864.3467682">save power on OLED or AMOLED displays</a>, aligning with our commitment to sustainability and carbon neutrality.  
 
