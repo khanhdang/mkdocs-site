@@ -86,12 +86,16 @@ theme:
 
 nav: 
   - 'Home': index.md
-  - 'Research': research.md
-  - 'Patent': patent.md
+  - 'Research': 
+    - 'Research Topic': research.md
+    - 'Project': project.md
+    - 'Patent': patent.md
+    - 'Grant & Award': grant.md
+    - 'Open HW/SW': open.md
+
   - 'Publication': pub.md
   - 'Teaching': teaching.md
   - 'Service': service.md
-  - 'HW/SW': open.md
   - 'Resource': resource.md
   - 'Group member': grp_mem.md
   - '📌 Join Us': 

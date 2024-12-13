@@ -1,7 +1,3 @@
----
-hide:
-- navigation
----
 
 # Patent
 
@@ -22,5 +18,9 @@ hide:
 2.  A. Ben Abdallah, Khanh N. Dang, Masayuki Hisada, *''TSV Error Tolerant Router Device for 3D Network On Chip''*, 特許第7239099号, Japan patent, \[[Certificate](share/patents/P_7239099.pdf)\], \[[Google Patent](https://patents.google.com/patent/JP2019092020A/)\].
 {: reversed=''reversed''}
 
+!!! info "Google Patent Search"
+
+    You can search my patents at [https://patents.google.com/?inventor=Nam+Khanh+Dang](https://patents.google.com/?inventor=Nam+Khanh+Dang).
 
 [^1]:    Student under my direct supervision.
+
