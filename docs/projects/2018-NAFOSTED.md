@@ -13,7 +13,8 @@ In this project, we solve the reliabilty challenges of Through-Silicon-Via based
 This projected is funded by NAFOSTED - National Foundation for Science and Technology Development ([https://nafosted.gov.vn/en/](https://nafosted.gov.vn/en/)) from 2019 to 2021.
 
 
-![Image title](../assets/projects/NAFOSTED-2018_2.PNG){align=  width="100%"}
+![Image title](../assets/projects/NAFOSTED-2018_2.PNG#only-dark){style="border:0; filter: invert(93%)"  width="100%"}
+![Image title](../assets/projects/NAFOSTED-2018_2.PNG#only-light){style="border:0"  width="100%"}
 *Caption: Final Framework of TSV Placement (see: \[[DOI: 10.1109/TCAD.2021.3069370](https://doi.org/10.1109/TCAD.2021.3069370)\])*
 
 
