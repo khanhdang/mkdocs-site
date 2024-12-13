@@ -7,7 +7,7 @@
 
 ---
 
-## Step 1: Entering the Lab
+## Entering the Lab
 
 When students join our lab, we aim to provide them with a smooth transition into research by following a structured flow:
 
@@ -26,7 +26,26 @@ When students join our lab, we aim to provide them with a smooth transition into
     - Contribute to cutting-edge research.
     - Develop critical thinking, problem-solving, and teamwork skills.
     - Explore innovative ideas and take ownership of specific research components.
+4. **Well-Managed System**
+   In our group, students' work and progress are effectively monitored and managed through GitHub and an internal website. Key features of our system include:
+      - **Individual Work Repositories**: Each student has their own working repository to track their progress.
+      - **Repository Synchronization**: Students' work repositories are synchronized with the internal website for seamless updates.
+      - **Efficient Communication**: Group communication is facilitated via a dedicated Slack workspace.
+      - **Project Management**: Projects are well-organized, and meetings are documented with detailed logs.
+      - **Transparent Collaboration**: We foster a high level of transparent communication among students.
+      - **Equal Opportunity**: We do not prioritize students based on their level; every student is equally valued.
 
+**A Peek at Our System**
+
+- **Internal Website**: A central hub for monitoring and managing students' progress and projects. Tutorials, meeting records, project websites are also available.
+<video width="100%" controls>
+    <source src="../assets/videos/internal-site.mp4" type="video/mp4">
+</video>
+
+- **GitHub Organization**: A collaborative space for version control and sharing code across the group.
+<video width="100%" controls>
+    <source src="../assets/videos/github.mp4" type="video/mp4">
+</video>
 ---
 
 ## Our Philosophy: Students First
