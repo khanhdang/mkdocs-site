@@ -110,7 +110,7 @@ nav:
       - 'Case Study': mentor.md
   - '🖼️ Moment':
     - moment/index.md
-  - 'Lab Website': https://web-ext.u-aizu.ac.jp/misc/neuro-eng/
+  # - 'Lab Website': https://web-ext.u-aizu.ac.jp/misc/neuro-eng/
   - 'Contact': contact.md
 
 plugins:
