@@ -44,8 +44,8 @@ theme:
   # logo: assets/logo_2025.svg
   favicon: assets/favicon.png
   custom_dir: overrides   
-  logo_dark_mode: assets/logo_2025_dark.svg
-  logo_light_mode: assets/logo_2025_light.svg
+  logo_dark_mode: assets/logo_2025_both.svg
+  logo_light_mode: assets/logo_2025_both.svg
   # font: false
   font:
     text: "Noto Sans JP"
