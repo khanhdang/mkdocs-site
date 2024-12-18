@@ -41,8 +41,7 @@ markdown_extensions:
       alternate_style: true 
 theme: 
   name: material
-  # logo: assets/logo_2025.svg
-  favicon: assets/favicon.png
+  favicon: assets/logo_dark.png
   custom_dir: overrides   
   logo_dark_mode: assets/logo_2025_dark.svg
   logo_light_mode: assets/logo_2025_light.svg
