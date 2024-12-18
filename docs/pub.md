@@ -14,7 +14,8 @@ hide:
 
 ## Book
 
-1. Abderazek Ben Abdallah and Khanh N. Dang (Authors), *''Neuromorphic Computing Principles and Organization”*, 1st edition, Publisher: Springer, ISBN-10: 3030925242, ISBN-13: 978-3030925246. \[[Springer](https://link.springer.com/book/9783030925246)\]/\[[Amazon](https://www.amazon.com/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)\]/\[[Amazon-JP](https://www.amazon.co.jp/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)\].
+1. Abderazek Ben Abdallah and Khanh N. Dang (Authors), *''Neuromorphic Computing Principles and Organization”*, 2nd edition, Publisher: Springer, ==(in-press 2025)==. 
+2. Abderazek Ben Abdallah and Khanh N. Dang (Authors), *''Neuromorphic Computing Principles and Organization”*, 1st edition, Publisher: Springer, ISBN-10: 3030925242, ISBN-13: 978-3030925246. \[[Springer](https://link.springer.com/book/9783030925246)\]/\[[Amazon](https://www.amazon.com/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)\]/\[[Amazon-JP](https://www.amazon.co.jp/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)\].
 
 ## Book chapter
 
