@@ -12,6 +12,8 @@ hide:
 
 # New Chapter: Returning to the University of Aizu
 
+==Khanh N. Dang's Point of View:==
+
 I’m happy to share that I’ve returned to the University of Aizu as an Associate Professor. Having been part of this community before, it’s nice to come back and take on a new role.
 
 <!-- more -->
