@@ -10,7 +10,7 @@ hide:
 
 Hello there! My name is Khanh N. DANG  (in Vietnamese: Đặng Nam Khánh, in Japanese: ダン ナム カイン).
 
-I am currently an **Associate Professor** in the Division of Computer Engineering, Department of Computer Science and Engineering, [The University of Aizu](https://www.u-aizu.ac.jp/en/). I earned my Ph.D. from [The University of Aizu](https://www.u-aizu.ac.jp/en/) and my M.Sc. from [Paris XI University](https://en.wikipedia.org/wiki/Paris-Sud_University) (now [Paris-Saclay University](https://www.universite-paris-saclay.fr/en)). Prior to joining the University of Aizu, I worked at [Dolphin Technology, Inc.](https://www.dolphin-ic.com/) and  [Vietnam National University, Hanoi](https://vnu.edu.vn/eng/).
+I am currently an **Associate Professor** in the Division of Computer Engineering, Department of Computer Science and Engineering, [The University of Aizu](https://www.u-aizu.ac.jp/en/). I earned my Ph.D. from [**The University of Aizu**](https://www.u-aizu.ac.jp/en/) and my M.Sc. from [**Paris XI University**](https://en.wikipedia.org/wiki/Paris-Sud_University) (now [Paris-Saclay University](https://www.universite-paris-saclay.fr/en)). Prior to joining the University of Aizu, I worked at [**Dolphin Technology, Inc.**](https://www.dolphin-ic.com/) and  [**Vietnam National University, Hanoi**](https://vnu.edu.vn/eng/).
 
 
 
@@ -22,7 +22,7 @@ I am currently an **Associate Professor** in the Division of Computer Engineerin
 
 !!! info "Join us!"
     - Research opportunities in VLSI design, carbon-efficient computing, and neuromorphic computing are available for GT undergraduate and graduate students. Interested candidates are encouraged to check [this page](joinus.md) to know more.
-    - Postdoc positions are also available. However, please only [contact me](contact.md) if you published at least two journal papers belong to this [list](resource.md/#journals-alphabetical-order).
+    - Postdoc positions are also available. However, please only [**contact me**](contact.md) if you published at least two journal papers belong to this [list](resource.md/#journals-alphabetical-order).
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
