@@ -9,11 +9,12 @@
 
 ## Step 1: Initial Inquiry
 ### Research Interest
-- Review our [research areas and ongoing projects on our website](research.md). Check out our [publication](pub.md) and [patent](patent.md) as well. Ensure that your interests align with our work.
+- Review the Principal Investigator’s (PI) [**research areas and ongoing projects on our website**](research.md). Check out our [publication](pub.md) and [patent](patent.md) as well. Ensure that your interests align with our work.
 - Check the [laboratory website](https://web-ext.u-aizu.ac.jp/misc/neuro-eng/) to learn more about broader research directions. 
-- Check out ["how we work"](howwework.md) to learn about how we work in our "family" a.k.a laboratory.
-- Check out ["what you learn"](whatyoulearn.md) to learn about what you can learn in our "family" a.k.a laboratory.
+- Check out [**how we work**](howwework.md) to learn about how we work in our group.
+- Check out [**what you learn**](whatyoulearn.md) to learn about what you can learn in our group.
 - Check out [some case studies](mentor.md) to learn about what the students did before.
+  
 
 
 ### Contact the professor
