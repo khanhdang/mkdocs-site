@@ -15,6 +15,6 @@
 
 1. **Second Prize** in the **Vietnamese Nhan Tai Dat Viet Award 2015**. Awarded for our VENGME H.264/AVC encoding chip, for which I was part of the design team.
 2. **Best Student Paper Award** at the **International Symposium on Ubiquitous Networking (UNet 2021)** for the paper:  
-      - *Ogbodo Mark Ikechukwu, Khanh N. Dang, and Abderazek Ben. Abdallah, "Energy-Efficient Spike-Based Scalable Architecture for Next-Generation Cognitive AI Computing Systems"*. [Certificate](assets/awards/2021-Unet.jpg)
+      - *Ogbodo Mark Ikechukwu, Khanh N. Dang, and Abderazek Ben. Abdallah, "Energy-Efficient Spike-Based Scalable Architecture for Next-Generation Cognitive AI Computing Systems"*. \[[**Certificate**](assets/awards/2021-Unet.jpg)\]
 3. **Best Paper Award** at the **2023 IEEE 6th International Conference on Electronics Technology (ICET)** for the paper:  
       - *Jiangkun Wang, Khanh N. Dang, and Abderazek Ben Abdallah, "Scaling Deep-Learning Pneumonia Detection Inference on a Reconfigurable Self-Contained Hardware Platform"*.
