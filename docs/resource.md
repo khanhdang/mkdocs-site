@@ -53,7 +53,7 @@ hide:
 | ITC              | IEEE International Test Conference                                                   | [Link](https://www.itctestweek.org/)             | March                    | September          | 
 | MCSoC            | IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip         | [Link](https://mcsoc-forum.org/)                 | May                      | December           |
 | MICRO            | IEEE/ACM International Symposium on Microarchitecture                                | [Link](https://microarch.org/)                   | April                    | October            |
-| NEWCAS           | IEEE Interregional NEWCAS Conference                                                 | [Link](hhttps://ieee-cas.org/conference-events)  | February                 | June               |
+| NEWCAS           | IEEE Interregional NEWCAS Conference                                                 | [Link](https://ieee-cas.org/conference-events)   | February                 | June               |
 | PRIME            | Intl. Conf. on PhD Research in Microelectronics and Electronics                      | [Link](http://prime-conference.org/)             | March                    | June               |
 | SOCC             | IEEE International Systems-on-Chip Conference                                        | [Link](https://www.ieee-socc.org/)               | May                      | September          |
 
