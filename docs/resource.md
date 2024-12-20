@@ -35,7 +35,7 @@ hide:
 
 | **Abbreviation** | **Conference Name**                                                                  | **Website**                                      | **Submission Deadline**  | **Event Time**     |
 |------------------|--------------------------------------------------------------------------------------|--------------------------------------------------|--------------------------|--------------------|
-| AICAS            | IEEE International Conference on Artificial Intelligence Circuits and Systems        | [Link](hhttps://ieee-cas.org/conference-events)  | October                  | April (next year)  |
+| AICAS            | IEEE International Conference on Artificial Intelligence Circuits and Systems        | [Link](https://ieee-cas.org/conference-events)   | October                  | April (next year)  |
 | APCCAS           | IEEE Asia Pacific Conference on Circuits and Systems                                 | [Link](https://ieee-cas.org/conference-events)   | June                     | November           |
 | ARC              | Intl. Conf. on Architecture of Computing Systems                                     | [Link](https://arcs-conference.org)              | April                    | August             |
 | ASAP             | IEEE Intl. Conf. on Application-specific Systems, Architectures, and Processors      | [Link](http://www.wikicfp.com/cfp/program?id=229)| February                 | July               |
