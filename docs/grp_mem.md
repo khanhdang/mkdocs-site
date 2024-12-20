@@ -5,6 +5,9 @@ hide:
 
 # Group Member
 
+## Principal Investigator (PI)
+
+- Khanh N. Dang, Ph.D.
 
 ## Graduate Student
 
