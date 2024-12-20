@@ -21,10 +21,6 @@ hide:
 - B3: TAKIMOTO Hayato
 - B3: KOMATSU Yamato
 
-## Exchange Student/Internship
-
-- 2024: [Mahdi Mnif](https://scholar.google.com/citations?user=lUbonSUAAAAJ) (Ph.D. student from TU Chemnitz, Germany)
-  
 ## Alumni
 
 ### M.Sc. Degree
@@ -34,6 +30,10 @@ hide:
 - 2021-2022, NGUYEN Van Tung, Vietnam National University, Hanoi.
 
 
+### Exchange Student/Internship
+
+- 2024: [Mahdi Mnif](https://scholar.google.com/citations?user=lUbonSUAAAAJ) (Ph.D. student from TU Chemnitz, Germany)
+  
 
 !!! success "Students' projects"
     Visit [this page](mentor.md) for projects that were done by the students under my supervision in the past.
