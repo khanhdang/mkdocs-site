@@ -26,4 +26,4 @@ We warmly welcome postdoctoral researchers, visiting researchers, and visiting p
 If you are interested, please feel free to [contact me via email](contact.md).
 
 ## Japan Society for the Promotion of Science (Postdoctoral Fellowships for Foreign Researchers)
-[http://www.jsps.go.jp/english/e-fellow/postdoctoral.html#long](http://www.jsps.go.jp/english/e-fellow/postdoctoral.html#long)
+[https://www.jsps.go.jp/english/e-pd/index.html](https://www.jsps.go.jp/english/e-pd/index.html)
