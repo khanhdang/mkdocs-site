@@ -59,7 +59,7 @@ hide:
 
 ## Conference paper
 
-31. Yuga Hanyu[^1] and Khanh N. Dang,  *''EnsembleSTDP: Distributed in-situ Spike Timing Dependent Plasticity Learning in Spiking Neural Networks''*,  **2024 IEEE 17th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)**, Dec. 16-19, 2024. 
+31. Yuga Hanyu[^1] and Khanh N. Dang,  *''EnsembleSTDP: Distributed in-situ Spike Timing Dependent Plasticity Learning in Spiking Neural Networks''*,  **2024 IEEE 17th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)**, Dec. 16-19, 2024. \[[Source Code](https://github.com/klab-aizu/EnsembleSTDP)\]
 32. Ryoji Kobayashi[^1], Ngo-Doanh Nguyen, Nguyen Anh Vu Doan and Khanh N. Dang,  *''Energy-Efficient Spiking Neural Networks Using Approximate Neuron Circuits and 3D Stacking Memory''*, **2024 IEEE 17th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)**, Dec. 16-19, 2024. 
 31. Ryoji Kobayashi[^1] and Khanh N. Dang,  *''An Efficient Hardware Implementation of Spiking Neural Network Using Approximate Izhikevich Neuron''*, **2024 9th IEEE International Conference on Integrated Circuits, Design, and Verification**, June 6-8, 2024.
 30.  Mohamed Maatar, Khanh N. Dang and Abderazek Ben Abdallah, *''Cluster-Based Thermal-Aware Mapping for 3D-NoC-Based NASH Neuromorphic System''*, **2024 IEEE International Conference on Advanced Systems and Emergent Technologies (IC_ASET)**, April 27-29, 2024.
