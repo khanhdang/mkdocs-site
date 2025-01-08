@@ -18,7 +18,7 @@
 
 - **Description**: In this project, we proposed a novel approach for distributed STDP learning using multiple sub-models. The sub-models are later merged and compressed at the centralized server.
 - **Link**: [Github](https://github.com/klab-aizu/EnsembleSTDP)
-- **Paper**: [Hanyu Yuga and Khanh N. Dang, *"EnsembleSTDP: Distributed in-situ Spike Timing Dependent Plasticity Learning in Spiking Neural Networks"*,  2024 IEEE 17th International Symposium on Embedded Multicore*Many-core Systems-on-Chip (MCSoC), Dec. 16-19, 2024. \[[DOI: 10.1109/MCSoC64144.2024.00077](https://doi.org/10.1109/MCSoC64144.2024.00077)\] \[[PDF](https://github.com/klab-aizu/EnsembleSTDP/blob/main/EnsembleSTDP.pdf)\].
+- **Paper**: [Hanyu Yuga and Khanh N. Dang, *"EnsembleSTDP: Distributed in-situ Spike Timing Dependent Plasticity Learning in Spiking Neural Networks"*,  2024 IEEE 17th International Symposium on Embedded Multicore*Many-core Systems-on-Chip (MCSoC), Dec. 16-19, 2024. \[[DOI: 10.1109/MCSoC64144.2024.00077](https://doi.org/10.1109/MCSoC64144.2024.00077)\]\/\[[PDF](https://github.com/klab-aizu/EnsembleSTDP/blob/main/EnsembleSTDP.pdf)\].
 
 ### SNN Ternary Weight Training
 
@@ -31,7 +31,7 @@
 
 - **Description**: In this project, we emulate the faults (stuck-at and flipped bit) in deep SNN model (VGG-16).
 - **Link**: [Github](https://github.com/KhanhGarage/hybrid-snn-conversion-with-faults)
-- **Paper**:  Khanh N. Dang, Nguyen Anh Vu Doan, Abderazek Ben Abdallah *''MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems''*,  **IEEE Transactions on Emerging Topics in Computing (TETC)**,  IEEE, Volume 10, Issue 2, pp. 602-617, 2022.  \[[DOI: 10.1109/TETC.2021.3136028](https://doi.org/10.1109/TETC.2021.3136028)\] \[[PDF](./share/pubs/TETC-2021.pdf)\].
+- **Paper**:  Khanh N. Dang, Nguyen Anh Vu Doan, Abderazek Ben Abdallah *''MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems''*,  **IEEE Transactions on Emerging Topics in Computing (TETC)**,  IEEE, Volume 10, Issue 2, pp. 602-617, 2022.  \[[DOI: 10.1109/TETC.2021.3136028](https://doi.org/10.1109/TETC.2021.3136028)\]\/\[[PDF](./share/pubs/TETC-2021.pdf)\].
   
 ### HeterGenMap: An Evolutionary Mapping Framework for Heterogeneous NoC-based Neuromorphic Systems
 
