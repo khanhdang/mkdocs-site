@@ -58,6 +58,7 @@ hide:
 - IEEE Transactions on Very Large Scale Integration Systems
 - IEEE Transactions on Signal and Power Integrity
 - IEEE Transactions on Neural Systems & Rehabilitation Engineering
+- IEEE Transactions on Semiconductor Manufacturing
 - IET Electronics Letters
 
 ### Conferences
