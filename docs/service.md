@@ -10,7 +10,7 @@ hide:
 
 ## Special Sessions and Issues
 
-- [CLOSED] **Journal of Low Power Electronics and Applications (ESCI/Scopus)**: "Advances in Low Power Neuromorphic Computing: Models, Algorithms, and Applications" \[[URL](https://www.mdpi.com/journal/jlpea/special_issues/7YPFV6WSDS)\]
+- ==[OPEN] **Journal of Low Power Electronics and Applications (ESCI/Scopus)**: "Advances in Low Power Neuromorphic Computing: Models, Algorithms, and Applications" \[[URL](https://www.mdpi.com/journal/jlpea/special_issues/7YPFV6WSDS)\]==
 - [CLOSED] **IEEE MCSoC 2024**: "Special Session on Embedded Neuromorphic Computing Systems" \[[URL](https://mcsoc-forum.org/site/index.php/embedded-neuromorphic-computing-systems/)\]
 - [CLOSED] **IEEE MCSoC 2023**: "Special Session on Machine Learning and Neuromorphic Computing for Edge and IoT" \[[URL](https://mcsoc-forum.org/site/index.php/machine-learning-and-neuromorphic-computing-for-edge-and-iot/)\]
 - [CLOSED] **Journal of Low Power Electronics and Applications (ESCI/Scopus)**: "Advances in Embedded Artificial Intelligence and Internet-of-Things" \[[URL](https://www.mdpi.com/journal/jlpea/special_issues/DU85TF44GS)\]
