@@ -86,28 +86,28 @@ theme:
 nav: 
   - 'Home': index.md
   - 'Research': 
-    - 'Research Topic': research.md
-    - 'Project': project.md
-    - 'Patent': patent.md
-    - 'Grant & Award': grant.md
+    - 'Research Topics': research.md
+    - 'Projects': project.md
+    - 'Patents': patent.md
+    - 'Grants & Awards': grant.md
     - 'Open HW/SW': open.md
-
-  - 'Publication': pub.md
+    
+  - 'Publications': pub.md
   - 'Teaching': teaching.md
   - 'Service': service.md
-  - 'Resource': resource.md
-  - 'Group member': grp_mem.md
+  - 'Resources': resource.md
+  - 'Group Members': grp_mem.md
   - '📌 Join Us': 
       - 'How to join': joinus.md
       - 'For undergraduate students': joinus_under.md
       - 'For postgraduate candidates': joinus_post.md
-      - 'Scholarship': scholarship.md
-      - 'TA/RA/Part-time': tara.md
-      - 'How to write research plan': researchplan.md
+      - 'Scholarships': scholarship.md
+      - 'TA/RA/Part-time Positions': tara.md
+      - 'How to write a research plan': researchplan.md
       - 'How we work': howwework.md
       - 'What you learn': whatyoulearn.md
       - 'Case Study': mentor.md
-  - '🖼️ Moment':
+  - '🖼️ Moments':
     - moment/index.md
   # - 'Lab Website': https://web-ext.u-aizu.ac.jp/misc/neuro-eng/
   - 'Contact': contact.md
