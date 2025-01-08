@@ -19,7 +19,7 @@ The students will learn the methods and skills in each step of the whole process
 
 ## Schedule
 
-| **Session Number** | **Session Title**                        | **Handout/Slide** | **Assignment** | **Reading** |
+| **Session** | **Session Title**                        | **Handout/Slide** | **Assignment** | **Reading** |
 |---------------------|------------------------------------------|-------------------|----------------|-------------|
 | Session 1          | Introduction                            |    [Slide](https://elms.u-aizu.ac.jp/mod/resource/view.php?id=118125)         |  [Assignment](https://elms.u-aizu.ac.jp/mod/assign/view.php?id=117858)        |  [Major List](https://elms.u-aizu.ac.jp/mod/url/view.php?id=118554), [IEEE Paper Writing](https://elms.u-aizu.ac.jp/mod/resource/view.php?id=118314)     |
 | Session 2          | Literature Survey                       |  [Slide](https://elms.u-aizu.ac.jp/mod/url/view.php?id=118250)           | [Assignment](https://elms.u-aizu.ac.jp/mod/assign/view.php?id=118254)         |       |
