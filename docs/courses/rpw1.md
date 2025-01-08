@@ -21,9 +21,9 @@ The students will learn the methods and skills in each step of the whole process
 
 | **Session Number** | **Session Title**                        | **Handout/Slide** | **Assignment** | **Reading** |
 |---------------------|------------------------------------------|-------------------|----------------|-------------|
-| Session 1          | Introduction                            |             |          |       |
-| Session 2          | Literature Survey                       |             |          |       |
-| Session 3          | Paper Structure & Organization          |             |          |       |
+| Session 1          | Introduction                            |    [Slide](https://elms.u-aizu.ac.jp/mod/resource/view.php?id=118125)         |  [Assignment](https://elms.u-aizu.ac.jp/mod/assign/view.php?id=117858)        |       |
+| Session 2          | Literature Survey                       |  [Slide](https://elms.u-aizu.ac.jp/mod/url/view.php?id=118250)           | [Assignment](https://elms.u-aizu.ac.jp/mod/assign/view.php?id=118254)         |       |
+| Session 3          | Paper Structure & Organization          |   [Slide](https://elms.u-aizu.ac.jp/mod/resource/view.php?id=118584)          |    [Assignment](https://elms.u-aizu.ac.jp/mod/quiz/view.php?id=118549)     |       |
 | Session 4          | Scientific Expression                   |             |          |       |
 | Session 5          | How to Write Title and Abstract         |             |          |       |
 | Session 6          | How to Write Introduction               |             |          |       |
