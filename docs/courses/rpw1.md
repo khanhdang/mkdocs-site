@@ -7,7 +7,7 @@ search:
 
 # RPW1 Research Paper Writing Seminar I (AY2024)
 
-Instructors: DANG Nam Khanh (Coordinator), ROY Debopriyo, KACHI Yasuyuki
+Instructors: DANG Nam Khanh (Coordinator), [ROY Debopriyo](https://u-aizu.ac.jp/research/faculty/detail?cd=90086&lng=en), [KACHI Yasuyuki](https://u-aizu.ac.jp/research/faculty/detail?cd=90138&lng=en)
 
 ## Outline
 
