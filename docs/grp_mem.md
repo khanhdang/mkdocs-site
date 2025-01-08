@@ -3,18 +3,18 @@ hide:
 - navigation
 ---
 
-# Group Member
+# Group Members
 
 ## Principal Investigator (PI)
 
 - Khanh N. Dang, Ph.D.
 
-## Graduate Student
+## Graduate Students
 
 - M1: Mohamed Yassine Khedher (co-supervised with Prof. [BEN ABDALLAH Abderazek](https://u-aizu.ac.jp/research/faculty/detail?cd=90029&lng=en))
 - M1: SUBBAIAH RAVI Hariprakash
 
-## Undergraduate Student
+## Undergraduate Students
 
 - B4: SHIOTA Rui
 - B4: KOBAYASHI Ryoji	(Publication: 2 conference papers (ICDV, MCSoC))
@@ -33,7 +33,7 @@ hide:
 - 2021-2022, NGUYEN Van Tung, Vietnam National University, Hanoi.
 
 
-### Exchange Student/Internship
+### Exchange Students/Internships
 
 - 2024: [Mahdi Mnif](https://scholar.google.com/citations?user=lUbonSUAAAAJ) (Ph.D. student from TU Chemnitz, Germany)
   
