@@ -26,7 +26,7 @@ The students will learn the methods and skills in each step of the whole process
 | Session 3          | Paper Structure & Organization          |   [Slide](https://elms.u-aizu.ac.jp/mod/resource/view.php?id=118584)          |    [Assignment](https://elms.u-aizu.ac.jp/mod/quiz/view.php?id=118549)     |       |
 | Session 4          | Scientific Expression                   |  [Material](https://elms.u-aizu.ac.jp/course/view.php?id=6684#coursecontentcollapse4)           |          |       |
 | Session 5          | How to Write Title and Abstract         |   [Material](https://elms.u-aizu.ac.jp/mod/url/view.php?id=122574)          |          |       |
-| Session 6          | How to Write Introduction               |  [Material]           |          |       |
+| Session 6          | How to Write Introduction               |           |          |       |
 | Session 7          | How to Write Technical Contents         | [Part-I](https://elms.u-aizu.ac.jp/mod/resource/view.php?id=122546)            |  [Assignment 1](https://elms.u-aizu.ac.jp/mod/quiz/view.php?id=122543),[Assignment 2](https://elms.u-aizu.ac.jp/mod/quiz/view.php?id=122544),[Assignment 3](https://elms.u-aizu.ac.jp/mod/assign/view.php?id=122545)        |   [Paper-1](https://arxiv.org/abs/1510.00149)    |
 | Session 8          | How to Present Results                  |  [Material](https://elms.u-aizu.ac.jp/course/view.php?id=6684#coursecontentcollapse6)           |          |       |
 | Session 9          | Paper Formatting Tools                  |             |          |       |
