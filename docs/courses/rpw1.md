@@ -5,7 +5,7 @@ search:
   exclude: true
 ---
 
-# RPW1 Research Paper Writing Seminar I
+# RPW1 Research Paper Writing Seminar I (AY2024)
 
 Instructors: DANG Nam Khanh (Coordinator), ROY Debopriyo, KACHI Yasuyuki
 
