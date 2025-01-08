@@ -1,4 +1,4 @@
-e---
+---
 hide:
 - navigation
 search:
