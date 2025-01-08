@@ -18,7 +18,7 @@
 
 - **Description**: In this project, we proposed a novel approach for distributed STDP learning using multiple sub-models. The sub-models are later merged and compressed at the centralized server.
 - **Link**: [Github](https://github.com/klab-aizu/EnsembleSTDP)
-- **Paper**: [Hanyu Yuga and Khanh N. Dang, *"EnsembleSTDP: Distributed in-situ Spike Timing Dependent Plasticity Learning in Spiking Neural Networks"*,  2024 IEEE 17th International Symposium on Embedded Multicore*Many-core Systems-on-Chip (MCSoC), Dec. 16-19, 2024.
+- **Paper**: [Hanyu Yuga and Khanh N. Dang, *"EnsembleSTDP: Distributed in-situ Spike Timing Dependent Plasticity Learning in Spiking Neural Networks"*,  2024 IEEE 17th International Symposium on Embedded Multicore*Many-core Systems-on-Chip (MCSoC), Dec. 16-19, 2024. \[[DOI: 10.1109/MCSoC64144.2024.00077](https://doi.org/10.1109/MCSoC64144.2024.00077)\] \[[PDF](https://github.com/klab-aizu/EnsembleSTDP/blob/main/EnsembleSTDP.pdf)\].
 
 ### SNN Ternary Weight Training
 
