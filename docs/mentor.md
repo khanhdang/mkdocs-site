@@ -6,7 +6,7 @@
     I am pleased to have had the opportunity to work with several talented students. The projects listed below were created by these students, with my role being that of a guide.
 
 
-## In-Class Project
+## In-Class Projects
 
 !!! tip ""
     This class follows the "project-based learning" principle by letting the students explore and design their own idea.
