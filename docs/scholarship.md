@@ -1,5 +1,5 @@
 
-# Scholarship
+# Scholarships
 
 !!! note "Eligibility"  
     - This page is mainly for international students. I am not familiar with scholarships for Japanese students. Please contact the university for more information regarding domestic scholarships.
