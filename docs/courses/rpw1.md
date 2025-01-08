@@ -24,11 +24,11 @@ The students will learn the methods and skills in each step of the whole process
 | Session 1          | Introduction                            |    [Slide](https://elms.u-aizu.ac.jp/mod/resource/view.php?id=118125)         |  [Assignment](https://elms.u-aizu.ac.jp/mod/assign/view.php?id=117858)        |  [Major List](https://elms.u-aizu.ac.jp/mod/url/view.php?id=118554), [IEEE Paper Writing](https://elms.u-aizu.ac.jp/mod/resource/view.php?id=118314)     |
 | Session 2          | Literature Survey                       |  [Slide](https://elms.u-aizu.ac.jp/mod/url/view.php?id=118250)           | [Assignment](https://elms.u-aizu.ac.jp/mod/assign/view.php?id=118254)         |       |
 | Session 3          | Paper Structure & Organization          |   [Slide](https://elms.u-aizu.ac.jp/mod/resource/view.php?id=118584)          |    [Assignment](https://elms.u-aizu.ac.jp/mod/quiz/view.php?id=118549)     |       |
-| Session 4          | Scientific Expression                   |             |          |       |
-| Session 5          | How to Write Title and Abstract         |             |          |       |
-| Session 6          | How to Write Introduction               |             |          |       |
+| Session 4          | Scientific Expression                   |  [Material](https://elms.u-aizu.ac.jp/course/view.php?id=6684#coursecontentcollapse4)           |          |       |
+| Session 5          | How to Write Title and Abstract         |   [Material](https://elms.u-aizu.ac.jp/mod/url/view.php?id=122574)          |          |       |
+| Session 6          | How to Write Introduction               |  [Material]           |          |       |
 | Session 7          | How to Write Technical Contents         |             |          |       |
-| Session 8          | How to Present Results                  |             |          |       |
+| Session 8          | How to Present Results                  |  [Material](https://elms.u-aizu.ac.jp/course/view.php?id=6684#coursecontentcollapse6)           |          |       |
 | Session 9          | Paper Formatting Tools                  |             |          |       |
 | Session 10         | Paper Submission                        |             |          |       |
 | Session 11         | Revision & Rebuttal                     |             |          |       |
