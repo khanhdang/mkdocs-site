@@ -17,7 +17,7 @@ hide:
 ### Graduate School
 
 - SYA14: **Neuromorphic Computing** (Co-Instructor), University of Aizu, *Postgraduate*,  Q2. \[[Course Website](https://web-ext.u-aizu.ac.jp/misc/neuro-eng/book/NeuromorphicComputing/)\]
-- RPW1: **Research Paper Writing I** (Course Coordinator), University of Aizu, *Postgraduate*,  Q3+4.
+- RPW1: **Research Paper Writing I** (Course Coordinator), University of Aizu, *Postgraduate*,  Q3+4.  \[[Course Website](./course/rpw1.md)\]
   
 ## Previous Courses
 
