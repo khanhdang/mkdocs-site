@@ -1,4 +1,4 @@
----
+e---
 hide:
 - navigation
 search:
@@ -32,7 +32,7 @@ The students will learn the methods and skills in each step of the whole process
 | Session 9          | Paper Formatting Tools                  |             |          |       |
 | Session 10         | Paper Submission                        |             |          |       |
 | Session 11         | Revision & Rebuttal                     |             |          |       |
-| Session 12         | Invited Talk by [Dr. Wang](https://u-aizu.ac.jp/~zwang/)             |             |          |       |
+| Session 12         | Invited Talk by [Dr. Wang](https://u-aizu.ac.jp/~zwang/)             |    [Speaker's Bio](https://elms.u-aizu.ac.jp/mod/resource/view.php?id=118267_         |          |       |
 | Session 13         | Invited Talk by [Prof. Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html) | [Speaker's Bio](https://elms.u-aizu.ac.jp/mod/resource/view.php?id=118255), [Abstract](https://elms.u-aizu.ac.jp/mod/resource/view.php?id=118256)             |          |       |
 | Session 14         | Invited Talk by [Prof. Pham](https://web-ext.u-aizu.ac.jp/~pham/) |             |          |       |
 
