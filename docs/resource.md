@@ -3,9 +3,9 @@ hide:
 - navigation
 ---
 
-# Resource
+# Resources
 
-## University Affiliation Link
+## University Affiliation Links
 
 - CampusSquare: [https://csweb.u-aizu.ac.jp/campusweb/campusportal.do?locale=en_US](https://csweb.u-aizu.ac.jp/campusweb/campusportal.do?locale=en_US)
 - ELMS (Moodle): [https://elms.u-aizu.ac.jp/](https://elms.u-aizu.ac.jp/)
@@ -24,7 +24,7 @@ hide:
 
 ## Academic reading/writing/presenting
 
-### Journal & Conference List
+### Journal & Conference Lists
 
 !!! tips ""
     - Below are some useful journals and conferences along with their submission deadlines and event timings.
@@ -76,7 +76,7 @@ hide:
 
 
 
-### Tool/Resource
+### Tools/Resources
 
 - LaTeX:
     - Overleaf (write and share LaTeX online): [https://www.overleaf.com/](https://www.overleaf.com/)
