@@ -3,7 +3,7 @@ hide:
 - navigation
 ---
 
-# Publication
+# Publications
 
 !!! warning "Disclaimer"
     This page contains PDF articles that may be copyrighted. Please refrain from downloading, copying, or sharing these files to avoid violating copyright laws.
@@ -12,12 +12,12 @@ hide:
 
 
 
-## Book
+## Books
 
 1. Abderazek Ben Abdallah and Khanh N. Dang (Authors), *''Neuromorphic Computing Principles and Organization”*, 2nd edition, Publisher: Springer, ==(in-press 2025)==. \[[Springer](https://link.springer.com/book/9783031830884)\]/\[[Amazon](https://www.amazon.com/dp/3031830881/)\]/\[[Amazon-JP](https://www.amazon.co.jp/dp/3031830881/)\]. 
 2. Abderazek Ben Abdallah and Khanh N. Dang (Authors), *''Neuromorphic Computing Principles and Organization”*, 1st edition, Publisher: Springer, ISBN-10: 3030925242, ISBN-13: 978-3030925246. \[[Springer](https://link.springer.com/book/9783030925246)\]/\[[Amazon](https://www.amazon.com/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)\]/\[[Amazon-JP](https://www.amazon.co.jp/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)\].
 
-## Book chapter
+## Book chapters
 
 
 1. Ngo-Doanh Nguyen[^1], Akram Ben Ahmed, Abderazek Ben Abdallah, Khanh N. Dang, *''Low-power 3D-IC-based Spiking Neural Network''*, Energy-Efficient Devices and Circuits for Neuromorphic Computing, **Elsevier**, 2025 ==(under-review)==.
@@ -25,7 +25,7 @@ hide:
 3. Khanh N. Dang and Abderazek Ben Abdallah, *''Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems''*, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. ISBN: 978-1-53613-327-1. \[[LINK](https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/)\]/\[[PDF](./share/pubs/NOVA-2018.pdf)\].
 {: reversed=''reversed''}
 
-## Journal paper 
+## Journal papers
 
 
 20. Ngo-Doanh Nguyen[^1], Khanh N. Dang,  Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *''NOMA: A Novel Reliability Improvement Methodology for 3-D IC-based Neuromorphic Systems''*, **IEEE Transactions on Components, Packaging and Manufacturing Technology**, 2024 ==(accepted)==.   \[[DOI: 10.1109/TCPMT.2024.3488113](https://doi.org/10.1109/TCPMT.2024.3488113)\]/\[[PDF](./share/pubs/TCPMT-2024.pdf
@@ -57,7 +57,7 @@ hide:
 
 [^2]:    Domestical journal in Vietnam.
 
-## Conference paper
+## Conference papers
 
 31. Yuga Hanyu[^1] and Khanh N. Dang,  *''EnsembleSTDP: Distributed in-situ Spike Timing Dependent Plasticity Learning in Spiking Neural Networks''*,  **2024 IEEE 17th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)**, Dec. 16-19, 2024. \[[Source Code](https://github.com/klab-aizu/EnsembleSTDP)\]
 32. Ryoji Kobayashi[^1], Ngo-Doanh Nguyen, Nguyen Anh Vu Doan and Khanh N. Dang,  *''Energy-Efficient Spiking Neural Networks Using Approximate Neuron Circuits and 3D Stacking Memory''*, **2024 IEEE 17th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)**, Dec. 16-19, 2024. 
@@ -95,7 +95,7 @@ hide:
 {: reversed=''reversed''}
 
 
-## Invited talk
+## Invited talks
 
 1. Khanh N. Dang, *''Robust Cognitive Brain-inspired Computing System: Architectures and Algorithms''*, **2022 4th International Conference on ICT Integration in Technical Education (ETLTC2022)**, Aizu-Wakamatsu, Japan, Jan 2022 (Plenary). \[[SLIDE](./share/pubs/ETLTC-2022.pdf)\].
 2. Khanh N. Dang,*''Fault-Tolerance Through-Silicon-Via For 3-D Integrated Circuits''*, **Advanced Institute of Engineering and Technology**, VNU-UET, VNU, Vietnam, 2021. \[[SLIDE](./share/pubs/AVITECH-2021.pdf)\].
