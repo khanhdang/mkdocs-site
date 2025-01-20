@@ -97,7 +97,7 @@ hide:
 
 ## Invited talks
 
-1. Khanh N. Dang, *"Neuromorphic Computing: A Paradigm for Low-Power Intelligent Systems"*. ETLTC-ICETM 2025.  \[[SLIDE](./share/pubs/ETLTC-.pdf)\].
+1. Khanh N. Dang, *"Neuromorphic Computing: A Paradigm for Low-Power Intelligent Systems"*. ETLTC-ICETM 2025.  \[[SLIDE](./share/pubs/ETLTC-2025.pdf)\].
 2. Khanh N. Dang, *"Robust Cognitive Brain-inspired Computing System: Architectures and Algorithms"*, **2022 4th International Conference on ICT Integration in Technical Education (ETLTC2022)**, Aizu-Wakamatsu, Japan, Jan 2022 (Plenary). \[[SLIDE](./share/pubs/ETLTC-2022.pdf)\].
 3. Khanh N. Dang,*"Fault-Tolerance Through-Silicon-Via For 3-D Integrated Circuits"*, **Advanced Institute of Engineering and Technology**, VNU-UET, VNU, Vietnam, 2021. \[[SLIDE](./share/pubs/AVITECH-2021.pdf)\].
 2. Khanh N. Dang, *"TSV-OCT: A Scalable Online Multiple-TSV Defects Localization for Real-Time 3-D-IC Systems"*, **The 3nd IEEE South-East Asia Workshop on Circuits and Systems (SEACAS)**, UPM, Malaysia, 2019. \[[SLIDE](./share/pubs/SEACAS-2019.pdf)\].
