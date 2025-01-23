@@ -28,7 +28,8 @@ hide:
 ## Journal papers
 
 
-20. Ngo-Doanh Nguyen[^1], Khanh N. Dang,  Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"NOMA: A Novel Reliability Improvement Methodology for 3-D IC-based Neuromorphic Systems"*, **IEEE Transactions on Components, Packaging and Manufacturing Technology**, 2024 ==(accepted)==.   \[[DOI: 10.1109/TCPMT.2024.3488113](https://doi.org/10.1109/TCPMT.2024.3488113)\]/\[[PDF](./share/pubs/TCPMT-2024.pdf
+20. Ryoji Kobayashi[^1], Ngo-Doanh Nguyen, Abderazek Ben Abdallah, Nguyen Anh Vu Doan, and Khanh N. Dang,  *"ApproxiMorph: Energy-efficient Neuromorphic System with Layer-wise Approximation of Spiking Neural Networks and 3D-Stacked SRAM"* ==(under-review)==.
+21. Ngo-Doanh Nguyen[^1], Khanh N. Dang,  Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"NOMA: A Novel Reliability Improvement Methodology for 3-D IC-based Neuromorphic Systems"*, **IEEE Transactions on Components, Packaging and Manufacturing Technology**, 2024 ==(accepted)==.   \[[DOI: 10.1109/TCPMT.2024.3488113](https://doi.org/10.1109/TCPMT.2024.3488113)\]/\[[PDF](./share/pubs/TCPMT-2024.pdf
 )\].
 18. Ngo-Doanh Nguyen[^1], Akram Ben Ahmed, Abderazek Ben Abdallah, Khanh N. Dang, *"Power-aware Neuromorphic Architecture with Partial Voltage Scaling 3D Stacking Synaptic Memory"*, **IEEE Transactions on Very Large Scale Integration Systems (TVLSI)**,  vol. 31, no. 12, pp. 2016-2029, Dec. 2023. \[[DOI: 10.1109/TVLSI.2023.3318231](https://doi.org/10.1109/TVLSI.2023.3318231)\]/\[[PDF](./share/pubs/TVLSI-2023.pdf)\].
 12. Khanh N. Dang, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems"*, **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, IEEE, Volume 41, No. 4,  pp. 799-812, April 2022. \[[DOI: 10.1109/TCAD.2021.3069370](https://doi.org/10.1109/TCAD.2021.3069370)\]/\[[PDF](./share/pubs/TCAD-2021.pdf)\].
