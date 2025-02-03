@@ -17,7 +17,7 @@ hide:
 ## Undergraduate Students
 
 - B4: SHIOTA Rui
-- B4: KOBAYASHI Ryoji	(Publication: 2 conference papers (ICDV, MCSoC))
+- B4: KOBAYASHI Ryoji	(Award of Excellence for AY 2024 graduates; Publication: 2 conference papers (ICDV, MCSoC))
 - B4: HANYU Yuga	(Publication: 1 conference paper (MCSoC))
 - B3: GANESH Satvik	
 - B3: SASAKI Yuga
