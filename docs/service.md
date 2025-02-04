@@ -42,9 +42,6 @@ hide:
 - ACM Journal on Emerging Technologies in Computing Systems
 - ACM Transactions on Embedded Computing Systems
 - Elsevier Journal of Systems Architecture
-- Frontiers in Computational Neuroscience
-- Frontiers in Neuroscience
-- IEEE Access
 - Journal of Supercomputing
 - Microprocessors and Microsystems
 - Microelectronics Journal
@@ -61,7 +58,6 @@ hide:
 - IEEE Transactions on Biomedical Circuits and Systems
 - IEEE Transactions on Emerging Topics in Computational Intelligence 
 - IEEE Journal of Solid-State Circuits
-- IET Electronics Letters
 
 ### Conferences
 
