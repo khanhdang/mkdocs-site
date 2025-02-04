@@ -40,6 +40,7 @@ hide:
 ### Journals
 
 - ACM Journal on Emerging Technologies in Computing Systems
+- ACM Transactions on Embedded Computing Systems
 - Applied Sciences
 - Elsevier Journal of Systems Architecture
 - Electronics
@@ -59,6 +60,9 @@ hide:
 - IEEE Transactions on Signal and Power Integrity
 - IEEE Transactions on Neural Systems & Rehabilitation Engineering
 - IEEE Transactions on Semiconductor Manufacturing
+- IEEE Transactions on Biomedical Circuits and Systems
+- IEEE Transactions on Emerging Topics in Computational Intelligence 
+- IEEE Journal of Solid-State Circuits
 - IET Electronics Letters
 
 ### Conferences
