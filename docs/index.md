@@ -21,7 +21,7 @@ I am currently an **Associate Professor** in the Division of Computer Engineerin
 
 
 !!! info "Join us!"
-    - Research opportunities in VLSI design, carbon-efficient computing, and neuromorphic computing are available for GT undergraduate and graduate students. Interested candidates are encouraged to check [this page](joinus.md) to know more.
+    - Research opportunities in VLSI design, carbon-efficient computing, and neuromorphic computing are available for GT undergraduate and graduate students. Interested candidates are encouraged to check [this page](joinus.md) to know more. Please check [this page](scholarship.md) to know about potential scholarships/fundings for your study.
     - Postdoc positions are also available. However, please only [**contact me**](contact.md) if you published at least two journal papers belong to this [list](resource.md/#journals-alphabetical-order).
 
 
