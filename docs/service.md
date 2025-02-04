@@ -41,9 +41,7 @@ hide:
 
 - ACM Journal on Emerging Technologies in Computing Systems
 - ACM Transactions on Embedded Computing Systems
-- Applied Sciences
 - Elsevier Journal of Systems Architecture
-- Electronics
 - Frontiers in Computational Neuroscience
 - Frontiers in Neuroscience
 - IEEE Access
@@ -73,6 +71,3 @@ hide:
 - IEEE ICCE 
 - IEEE ISCAS 
 - IEEE APCCAS 
-- ICCE 
-- ATC 
-- RIFV 
