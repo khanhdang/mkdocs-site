@@ -32,7 +32,8 @@ As a Teaching Assistant, students will support course instructors by assisting w
 - **Workload:**  
   Students can typically take on **3 to 4 courses per year**.
 
-- **How to Apply:**  
+- **How to Apply:**
+  
   - Priority TA positions are assigned within our lab’s courses.  
   - Students are encouraged to reach out to other professors for additional TA opportunities.
 
