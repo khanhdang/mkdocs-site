@@ -24,6 +24,9 @@ I am currently an **Associate Professor** in the Division of Computer Engineerin
     - Research opportunities in VLSI design, carbon-efficient computing, and neuromorphic computing are available for GT undergraduate and graduate students. Interested candidates are encouraged to check [this page](joinus.md) to know more. Please check [this page](scholarship.md) to know about potential scholarships/fundings for your study.
     - Postdoc positions are also available. However, please only [**contact me**](contact.md) if you published at least two journal papers belong to this [list](resource.md/#journals-alphabetical-order).
 
+!!! warning "News!"
+    - We are pitching for "SanzuAI: AI-Powered, Sustainable, Low-Cost, Energy-Efficient Chip Implementation for Landslide Prediction System". Please visit [https://sanzuai.github.io](https://sanzuai.github.io) for our project proposal.
+
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
