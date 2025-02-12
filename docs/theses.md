@@ -1,3 +1,8 @@
+---
+hide:
+- navigation
+---
+
 # Theses
 
 ## Graduate School
