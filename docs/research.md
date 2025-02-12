@@ -22,6 +22,9 @@ To minimize power consumption and area costs, we utilize approximate circuits th
 ### Sustainable Computing
 Devices can experience permanent defects over time, affecting performance accuracy.  We research methods to predict and tolerate these potential faults. By enhancing fault tolerance, we aim to extend the operational lifetime of these devices, reducing the frequency of replacements and the need for new semiconductor production. This reduction directly contributes to lowering carbon emissions associated with manufacturing, supporting more ==sustainable and carbon-efficient computing practices==.
 
+## Edge Intelligence for Disasters
+
+This topic leverages edge computing and AI to enable real-time disaster monitoring, prediction, and response. By processing data locally on IoT devices and low-power edge hardware, this approach reduces latency and ensures rapid decision-making even in areas with limited connectivity. Applications include landslide detection, flood forecasting, and human monitoring, where AI-driven edge devices analyze sensor data to provide early warnings and guidance for rescue. This decentralized system enhances resilience by reducing dependence on cloud infrastructure, improving energy efficiency, and enabling autonomous disaster response. Integrating edge intelligence into disaster management can significantly enhance preparedness and mitigate risks in vulnerable regions.
 
 ## Three-Dimensional (3D) Integrated Circuits
 With Moore's Law reaching limitations in transistor scaling, one solution is to expand vertically by stacking multiple silicon layers interconnected by vias. Our focus is on designing 3D architectures, such as memory stacks (SRAM, eDRAM, etc.), and converting conventional 2D architectures to 3D.
