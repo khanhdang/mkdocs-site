@@ -39,4 +39,5 @@ hide:
   
 
 !!! success "Students' projects"
-    Visit [this page](mentor.md) for projects that were done by the students under my supervision in the past.
+    - Students' theses are listed on [this page](theses.md).
+    - Please visit [this page](mentor.md) for projects that were done by the students under my supervision in the past.
