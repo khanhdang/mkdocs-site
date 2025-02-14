@@ -14,7 +14,7 @@ I am currently an **Associate Professor** in the Division of Computer Engineerin
 
 
 
-**Research Interests:** My current research covers three key topics: ==*carbon-efficient & sustainable computing*==, ==*3D-IC technology*==, and ==*neuromorphic computing*==. I am particularly interested in advancing computing architectures that achieve ultra-low-power and scalable solutions, paving the way for safe, responsible real-world deployment. In addition, I am committed to exploring ==carbon-neutral computing==—an approach that minimizes the carbon footprint of computing systems by optimizing energy efficiency, leveraging renewable energy sources, and designing sustainable hardware solutions. This aligns with my goal to contribute to environmentally responsible innovation in computing technology.
+**Research Interests:** My current research covers three key topics: ==*carbon-efficient & sustainable computing*==, ==*Edge Intelligence for Disasters*==, ==*3D-IC technology*==, and ==*neuromorphic computing*==. I am particularly interested in advancing computing architectures that achieve ultra-low-power and scalable solutions, paving the way for safe, responsible real-world deployment. In addition, I am committed to exploring ==carbon-neutral computing==—an approach that minimizes the carbon footprint of computing systems by optimizing energy efficiency, leveraging renewable energy sources, and designing sustainable hardware solutions. This aligns with my goal to contribute to environmentally responsible innovation in computing technology.
 
 **Links**: [Contact Info](contact.md) / [Internal Page (for students)](http://klab-int.u-aizu.ac.jp/) / [Laboratory Website](https://web-ext.u-aizu.ac.jp/misc/neuro-eng/) / [University Website](https://u-aizu.ac.jp/) 
 
