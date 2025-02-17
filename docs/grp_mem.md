@@ -23,6 +23,10 @@ hide:
 - B3: SASAKI Yuga
 - B3: TAKIMOTO Hayato
 - B3: KOMATSU Yamato
+- B2: SAITOU Kotaro
+- B2: SAKAKURA Shunnosuke
+- B2: SEKINE Haruka
+- B2: KOMATSUZAKI Aruki	
 
 ## Alumni
 
