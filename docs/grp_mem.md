@@ -30,6 +30,9 @@ hide:
 
 ## Alumni
 
+!!! success "Alumni Voices"
+    You can listen to our alumni's voices here: [https://github.com/klab-aizu/alumni_voices](https://github.com/klab-aizu/alumni_voices).
+
 ### M.Sc. Degree
 - 2022-2024:  [NGUYEN Ngo Doanh](https://scholar.google.com.vn/citations?user=1ny8zogAAAAJ),  The University of Aizu. (Award of Excellence for AY 2023 graduates; early graduation (1.5 years); Publication: 4 journals (1 TCMPT, 1 TVLSI, 2 ACCESS), 1 conference  (MCSoC), 1 Japanese patent application). *Next Destination: Ph.D. student at University of Genoa*.
   
