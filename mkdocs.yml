@@ -107,6 +107,7 @@ nav:
       - 'How we work': howwework.md
       - 'What you learn': whatyoulearn.md
       - 'Case Study': mentor.md
+      - 'Alumni Voices': https://github.com/klab-aizu/alumni_voices
   - '🖼️ Moments':
     - moment/index.md
   # - 'Lab Website': https://web-ext.u-aizu.ac.jp/misc/neuro-eng/
